@@ -1,0 +1,143 @@
+{
+  "versione_generatore": "2.5.0",
+  "timestamp_generazione_utc": "2026-11-11T16:31:24.836335Z",
+  "versione_python": "3.12.3",
+  "configurazione": {
+    "n_clienti": 600,
+    "seed": 1,
+    "giorni_osservazione": 90,
+    "giorni_attivita_azienda": 240,
+    "giorni_cliente_nuovo": 30,
+    "quota_nuovi_clienti": 0.15,
+    "variabilita_frequenza": 0.45,
+    "variabilita_ticket_cliente": 0.25,
+    "variabilita_ticket_richiesta": 0.35,
+    "probabilita_categoria_preferita": 0.75,
+    "data_riferimento": "26/10/2026",
+    "zone": {
+      "Roma": 0.25,
+      "Milano": 0.2,
+      "Napoli": 0.15,
+      "Torino": 0.15,
+      "Bologna": 0.1,
+      "Firenze": 0.1,
+      "Palermo": 0.05
+    },
+    "soglie_descrittive": {
+      "richieste_min_attivi": 3,
+      "richieste_min_molto_attivi": 6,
+      "ticket_medio_elevato_euro": 70.0
+    },
+    "valore_economico": {
+      "quota_clienti_ticket_premium": 0.15,
+      "moltiplicatore_ticket_premium": 2.5
+    },
+    "categorie": {
+      "Installazione e configurazione software": {
+        "fattore_prezzo": 1.0,
+        "peso": 0.35
+      },
+      "Configurazione posta e account": {
+        "fattore_prezzo": 0.8,
+        "peso": 0.25
+      },
+      "Scansione Anomalie/Vulnerabilità del dispositivo": {
+        "fattore_prezzo": 1.25,
+        "peso": 0.2
+      },
+      "Configurazione backup": {
+        "fattore_prezzo": 1.1,
+        "peso": 0.2
+      }
+    },
+    "profili_simulazione": {
+      "molto_attivi": {
+        "peso": 0.12,
+        "richieste_mese": 2.7,
+        "ticket_medio_euro": 38.0
+      },
+      "abituali": {
+        "peso": 0.3,
+        "richieste_mese": 1.1,
+        "ticket_medio_euro": 35.0
+      },
+      "occasionali": {
+        "peso": 0.43,
+        "richieste_mese": 0.2,
+        "ticket_medio_euro": 28.0
+      },
+      "inattivi": {
+        "peso": 0.15,
+        "richieste_mese": 0.55,
+        "ticket_medio_euro": 35.0,
+        "inattivita_giorni_max": 160,
+        "inattivita_giorni_min": 100
+      }
+    }
+  },
+  "contesto_geografico": {
+    "nazione": "Italia"
+  },
+  "separatore_csv": ",",
+  "anagrafica_sintetica": {
+    "inclusa": true,
+    "dominio_email": "example.com",
+    "uso_previsto": "Identificazione e presentazione; esclusa dal clustering"
+  },
+  "inizio_osservazione_incluso": "29/07/2026",
+  "fine_osservazione_inclusa": "26/10/2026",
+  "n_clienti": 600,
+  "n_interventi_storici": 2259,
+  "n_clienti_senza_richieste_nel_periodo": 199,
+  "distribuzione_comportamenti_osservati": {
+    "criteri": {
+      "finestra_giorni": 90,
+      "recenti_se_iscritti_da_meno_di_giorni": 30,
+      "inattivi_se_ultima_richiesta_da_almeno_giorni": 90,
+      "fasce_frequenza_richieste": "0; 1-2; 3-5; almeno 6",
+      "ticket_medio_elevato_da_euro": "70.00",
+      "nota": "Inattivi = zero richieste nella finestra (recency almeno pari ai giorni osservati); recenti e ticket elevato sono attributi sovrapponibili. Sono classificazioni descrittive, non profili latenti né cluster K-Means."
+    },
+    "fasce_frequenza_esclusive": {
+      "inattivi_0_richieste_nel_periodo": {
+        "clienti": 199,
+        "percentuale": 33.2
+      },
+      "occasionali_1_2": {
+        "clienti": 255,
+        "percentuale": 42.5
+      },
+      "attivi_3_5": {
+        "clienti": 94,
+        "percentuale": 15.7
+      },
+      "molto_attivi_6_o_piu": {
+        "clienti": 52,
+        "percentuale": 8.7
+      }
+    },
+    "coorti_trasversali": {
+      "recenti_iscritti_nel_periodo_definito": {
+        "clienti": 66,
+        "percentuale": 11.0
+      },
+      "ticket_medio_elevato_nel_periodo": {
+        "clienti": 39,
+        "percentuale": 6.5
+      }
+    }
+  },
+  "sha256_csv": "b22090e76a9b5b3d24a81117b162fe54d779729e514a1407adf126fb25cd85a5",
+  "note": [
+    "Dati completamente sintetici, privi di informazioni personali reali.",
+    "Nomi e cognomi sono combinazioni fittizie; email univoche sul dominio example.com.",
+    "Una richiesta è un intervento completato e pagato; almeno un acquisto storico per cliente.",
+    "Numero richieste, spesa totale e media usano la stessa finestra inclusiva.",
+    "Media zero senza interventi nel periodo: convenzione, non prezzo osservato.",
+    "Recency e categoria preferita usano la storia completa.",
+    "Le fasce nel JSON derivano da dati osservati e NON rappresentano etichette vere di clustering.",
+    "Recenti e ticket elevato sono attributi trasversali, non profili esclusivi.",
+    "Inattivo nel periodo significa nessuna richiesta negli ultimi giorni_osservazione giorni.",
+    "Nessuna etichetta latente di profilo è esportata nel CSV clienti."
+  ]
+}

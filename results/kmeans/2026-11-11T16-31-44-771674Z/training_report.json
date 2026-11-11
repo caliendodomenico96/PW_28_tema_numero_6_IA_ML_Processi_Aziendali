@@ -1,0 +1,184 @@
+{
+  "versione_pipeline": "1.0.0",
+  "dataset_csv": "data/2026-11-11T16-31-24-836335Z/customer_history_dataset.csv",
+  "dataset_sha256": "b22090e76a9b5b3d24a81117b162fe54d779729e514a1407adf126fb25cd85a5",
+  "metadati_sha256": "5e442ce1cc9b9c73d89898ebdf13a12e2bb253d064464c899a1d42b21bfa8d2d",
+  "n_clienti": 600,
+  "data_riferimento": "26/10/2026",
+  "features": [
+    "numero_richieste",
+    "importo_totale_speso",
+    "giorni_ultima_richiesta",
+    "giorni_da_iscrizione"
+  ],
+  "log1p_spesa": true,
+  "preprocessing": "SimpleImputer(median) + StandardScaler",
+  "k_analizzati": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "k_confronto": [
+    3,
+    4
+  ],
+  "k_modelli_salvati": [
+    3,
+    4
+  ],
+  "random_state": 42,
+  "n_init": 20,
+  "scelta_k": {
+    "k_massimo_silhouette": 4,
+    "k_gomito": 4,
+    "k_raccomandato": 4,
+    "regola": "gomito entro 0,02 punti di silhouette dal miglior valore",
+    "soglia_tolleranza_silhouette": 0.02,
+    "nota": "Indicazione euristica: il valore finale richiede anche interpretazione dei gruppi."
+  },
+  "metriche": [
+    {
+      "k": 2,
+      "silhouette": 0.521255,
+      "davies_bouldin": 0.677047,
+      "calinski_harabasz": 682.182311,
+      "dimensioni_cluster": {
+        "0": 199,
+        "1": 401
+      },
+      "cluster_minimo": 199,
+      "cluster_massimo": 401,
+      "inertia": 1121.090322
+    },
+    {
+      "k": 3,
+      "silhouette": 0.514131,
+      "davies_bouldin": 0.819074,
+      "calinski_harabasz": 692.138452,
+      "dimensioni_cluster": {
+        "0": 199,
+        "1": 331,
+        "2": 70
+      },
+      "cluster_minimo": 70,
+      "cluster_massimo": 331,
+      "inertia": 723.169991
+    },
+    {
+      "k": 4,
+      "silhouette": 0.523729,
+      "davies_bouldin": 0.73291,
+      "calinski_harabasz": 865.99955,
+      "dimensioni_cluster": {
+        "0": 199,
+        "1": 142,
+        "2": 47,
+        "3": 212
+      },
+      "cluster_minimo": 47,
+      "cluster_massimo": 212,
+      "inertia": 447.839889
+    },
+    {
+      "k": 5,
+      "silhouette": 0.461448,
+      "davies_bouldin": 0.783071,
+      "calinski_harabasz": 798.845087,
+      "dimensioni_cluster": {
+        "0": 141,
+        "1": 100,
+        "2": 212,
+        "3": 100,
+        "4": 47
+      },
+      "cluster_minimo": 47,
+      "cluster_massimo": 212,
+      "inertia": 376.743194
+    },
+    {
+      "k": 6,
+      "silhouette": 0.425564,
+      "davies_bouldin": 0.842986,
+      "calinski_harabasz": 795.450643,
+      "dimensioni_cluster": {
+        "0": 130,
+        "1": 100,
+        "2": 165,
+        "3": 39,
+        "4": 100,
+        "5": 66
+      },
+      "cluster_minimo": 39,
+      "cluster_massimo": 165,
+      "inertia": 311.861963
+    },
+    {
+      "k": 7,
+      "silhouette": 0.397299,
+      "davies_bouldin": 0.871934,
+      "calinski_harabasz": 773.348995,
+      "dimensioni_cluster": {
+        "0": 106,
+        "1": 100,
+        "2": 61,
+        "3": 101,
+        "4": 37,
+        "5": 99,
+        "6": 96
+      },
+      "cluster_minimo": 37,
+      "cluster_massimo": 106,
+      "inertia": 271.986765
+    },
+    {
+      "k": 8,
+      "silhouette": 0.400476,
+      "davies_bouldin": 0.847663,
+      "calinski_harabasz": 775.196612,
+      "dimensioni_cluster": {
+        "0": 88,
+        "1": 100,
+        "2": 35,
+        "3": 109,
+        "4": 99,
+        "5": 25,
+        "6": 64,
+        "7": 80
+      },
+      "cluster_minimo": 25,
+      "cluster_massimo": 109,
+      "inertia": 236.076964
+    }
+  ],
+  "versioni": {
+    "python": "3.12.3",
+    "sklearn": "1.9.1",
+    "pandas": "2.3.3",
+    "numpy": "2.5.4"
+  },
+  "artefatti_aggiuntivi": {
+    "heatmap_centroidi": [
+      "heatmap_centroidi_k3.png",
+      "heatmap_centroidi_k4.png"
+    ],
+    "scatter_pca": [
+      "scatter_pca_k3.png",
+      "scatter_pca_k4.png"
+    ],
+    "boxplot_feature": [
+      "boxplot_feature_k3.png",
+      "boxplot_feature_k4.png"
+    ]
+  },
+  "note": [
+    "Training non supervisionato: nessuna etichetta latente è usata.",
+    "Cluster 0/1/... sono identificatori arbitrari, non etichette comportamentali.",
+    "Il metodo del gomito e la silhouette sono euristiche; non determinano il K vero.",
+    "Le metriche interne sono calcolate sui dati usati per il fitting, non su un test indipendente.",
+    "La data d'iscrizione è trasformata in anzianità rispetto alla data di riferimento del dataset."
+  ]
+}

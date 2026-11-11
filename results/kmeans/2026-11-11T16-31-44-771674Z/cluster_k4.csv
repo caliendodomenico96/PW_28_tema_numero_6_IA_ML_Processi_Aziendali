@@ -1,0 +1,601 @@
+id_cliente,nome,cognome,email,zona,data_iscrizione,numero_richieste,importo_totale_speso,importo_medio_speso,giorni_ultima_richiesta,categoria_preferita,data_ultima_richiesta,cluster
+C000001,Martina,Rinaldi,martina.rinaldi.c000001@example.com,Bologna,23/05/2026,0,0.0,0.0,107,Configurazione posta e account,11/07/2026,0
+C000002,Federica,Valentini,federica.valentini.c000002@example.com,Firenze,16/04/2026,0,0.0,0.0,190,Configurazione backup,19/04/2026,0
+C000003,Nicola,Leone,nicola.leone.c000003@example.com,Bologna,20/03/2026,2,233.45,116.73,7,Configurazione posta e account,19/10/2026,1
+C000004,Giulio,Conti,giulio.conti.c000004@example.com,Torino,20/07/2026,4,209.75,52.44,14,Scansione Anomalie/Vulnerabilità del dispositivo,12/10/2026,3
+C000005,Luca,Santoro,luca.santoro.c000005@example.com,Bologna,17/03/2026,1,38.09,38.09,78,Installazione e configurazione software,09/08/2026,1
+C000006,Antonio,Bruno,antonio.bruno.c000006@example.com,Palermo,01/08/2026,2,55.64,27.82,64,Scansione Anomalie/Vulnerabilità del dispositivo,23/08/2026,3
+C000007,Greta,Testa,greta.testa.c000007@example.com,Palermo,02/08/2026,5,129.35,25.87,19,Configurazione posta e account,07/10/2026,3
+C000008,Francesco,De Santis,francesco.de.santis.c000008@example.com,Roma,21/10/2026,1,11.15,11.15,3,Configurazione posta e account,23/10/2026,3
+C000009,Alice,Martini,alice.martini.c000009@example.com,Roma,21/03/2026,0,0.0,0.0,186,Configurazione posta e account,23/04/2026,0
+C000010,Sara,Greco,sara.greco.c000010@example.com,Milano,31/08/2026,2,82.1,41.05,47,Configurazione backup,09/09/2026,3
+C000011,Beatrice,Pellegrini,beatrice.pellegrini.c000011@example.com,Palermo,26/04/2026,0,0.0,0.0,111,Installazione e configurazione software,07/07/2026,0
+C000012,Davide,Rinaldi,davide.rinaldi.c000012@example.com,Bologna,01/05/2026,2,75.01,37.51,44,Configurazione posta e account,12/09/2026,1
+C000013,Giovanni,Ferrari,giovanni.ferrari.c000013@example.com,Torino,27/09/2026,2,85.39,42.7,6,Scansione Anomalie/Vulnerabilità del dispositivo,20/10/2026,3
+C000014,Edoardo,Ferrari,edoardo.ferrari.c000014@example.com,Napoli,12/05/2026,0,0.0,0.0,120,Configurazione posta e account,28/06/2026,0
+C000015,Alice,Fiore,alice.fiore.c000015@example.com,Roma,21/04/2026,0,0.0,0.0,184,Installazione e configurazione software,25/04/2026,0
+C000016,Chiara,Fontana,chiara.fontana.c000016@example.com,Milano,02/04/2026,1,24.51,24.51,76,Configurazione posta e account,11/08/2026,1
+C000017,Laura,Villa,laura.villa.c000017@example.com,Bologna,03/09/2026,5,195.92,39.18,2,Scansione Anomalie/Vulnerabilità del dispositivo,24/10/2026,3
+C000018,Riccardo,Rossi,riccardo.rossi.c000018@example.com,Bologna,30/04/2026,2,98.79,49.4,51,Configurazione backup,05/09/2026,1
+C000019,Riccardo,Ferraro,riccardo.ferraro.c000019@example.com,Milano,17/05/2026,0,0.0,0.0,104,Scansione Anomalie/Vulnerabilità del dispositivo,14/07/2026,0
+C000020,Veronica,Fontana,veronica.fontana.c000020@example.com,Napoli,23/05/2026,0,0.0,0.0,154,Scansione Anomalie/Vulnerabilità del dispositivo,25/05/2026,0
+C000021,Giulio,De Luca,giulio.de.luca.c000021@example.com,Milano,10/05/2026,4,138.84,34.71,22,Configurazione posta e account,04/10/2026,1
+C000022,Federico,Longo,federico.longo.c000022@example.com,Roma,16/06/2026,5,327.49,65.5,17,Scansione Anomalie/Vulnerabilità del dispositivo,09/10/2026,1
+C000023,Francesca,Giordano,francesca.giordano.c000023@example.com,Bologna,01/07/2026,0,0.0,0.0,110,Installazione e configurazione software,08/07/2026,0
+C000024,Francesco,Neri,francesco.neri.c000024@example.com,Milano,03/06/2026,1,34.07,34.07,63,Installazione e configurazione software,24/08/2026,1
+C000025,Riccardo,Testa,riccardo.testa.c000025@example.com,Napoli,26/10/2026,1,17.27,17.27,0,Installazione e configurazione software,26/10/2026,3
+C000026,Giulia,Bruno,giulia.bruno.c000026@example.com,Napoli,01/04/2026,0,0.0,0.0,202,Installazione e configurazione software,07/04/2026,0
+C000027,Sara,Bruno,sara.bruno.c000027@example.com,Roma,19/08/2026,7,572.3,81.76,6,Installazione e configurazione software,20/10/2026,2
+C000028,Roberto,Basile,roberto.basile.c000028@example.com,Napoli,04/06/2026,1,17.89,17.89,35,Configurazione posta e account,21/09/2026,1
+C000029,Camilla,D'Angelo,camilla.d.angelo.c000029@example.com,Milano,19/08/2026,1,33.59,33.59,61,Configurazione backup,26/08/2026,3
+C000030,Veronica,Di Pietro,veronica.di.pietro.c000030@example.com,Napoli,31/03/2026,0,0.0,0.0,180,Installazione e configurazione software,29/04/2026,0
+C000031,Sofia,Testa,sofia.testa.c000031@example.com,Torino,09/09/2026,1,22.8,22.8,40,Configurazione posta e account,16/09/2026,3
+C000032,Elisa,Fontana,elisa.fontana.c000032@example.com,Bologna,09/08/2026,1,57.92,57.92,71,Scansione Anomalie/Vulnerabilità del dispositivo,16/08/2026,3
+C000033,Giovanni,De Luca,giovanni.de.luca.c000033@example.com,Roma,01/06/2026,2,58.23,29.12,18,Configurazione backup,08/10/2026,1
+C000034,Giulia,Ricci,giulia.ricci.c000034@example.com,Torino,04/05/2026,0,0.0,0.0,112,Configurazione backup,06/07/2026,0
+C000035,Federica,Parisi,federica.parisi.c000035@example.com,Milano,13/06/2026,1,10.9,10.9,13,Configurazione posta e account,13/10/2026,1
+C000036,Valentina,Marino,valentina.marino.c000036@example.com,Roma,30/06/2026,17,824.09,48.48,4,Scansione Anomalie/Vulnerabilità del dispositivo,22/10/2026,2
+C000037,Valentina,Ricci,valentina.ricci.c000037@example.com,Milano,16/10/2026,1,21.94,21.94,10,Installazione e configurazione software,16/10/2026,3
+C000038,Gabriele,Marchetti,gabriele.marchetti.c000038@example.com,Firenze,18/05/2026,18,773.44,42.97,6,Configurazione backup,20/10/2026,2
+C000039,Giacomo,Pellegrini,giacomo.pellegrini.c000039@example.com,Roma,13/10/2026,1,29.22,29.22,9,Configurazione posta e account,17/10/2026,3
+C000040,Paolo,Costa,paolo.costa.c000040@example.com,Palermo,18/06/2026,1,17.4,17.4,87,Configurazione posta e account,31/07/2026,1
+C000041,Sara,Rossi,sara.rossi.c000041@example.com,Napoli,11/03/2026,0,0.0,0.0,223,Configurazione posta e account,17/03/2026,0
+C000042,Matteo,Ricci,matteo.ricci.c000042@example.com,Milano,05/03/2026,1,34.98,34.98,37,Installazione e configurazione software,19/09/2026,1
+C000043,Luca,De Luca,luca.de.luca.c000043@example.com,Napoli,08/05/2026,0,0.0,0.0,165,Scansione Anomalie/Vulnerabilità del dispositivo,14/05/2026,0
+C000044,Matilde,Valentini,matilde.valentini.c000044@example.com,Milano,22/08/2026,10,599.35,59.94,10,Scansione Anomalie/Vulnerabilità del dispositivo,16/10/2026,2
+C000045,Alice,Leone,alice.leone.c000045@example.com,Milano,06/03/2026,0,0.0,0.0,185,Installazione e configurazione software,24/04/2026,0
+C000046,Giacomo,D'Amico,giacomo.d.amico.c000046@example.com,Roma,07/08/2026,2,75.9,37.95,60,Installazione e configurazione software,27/08/2026,3
+C000047,Filippo,Parisi,filippo.parisi.c000047@example.com,Bologna,14/10/2026,1,153.94,153.94,12,Configurazione backup,14/10/2026,3
+C000048,Giada,Bruno,giada.bruno.c000048@example.com,Napoli,27/04/2026,0,0.0,0.0,176,Configurazione backup,03/05/2026,0
+C000049,Giacomo,Greco,giacomo.greco.c000049@example.com,Milano,16/10/2026,2,63.41,31.71,9,Configurazione posta e account,17/10/2026,3
+C000050,Sara,Barbieri,sara.barbieri.c000050@example.com,Milano,19/05/2026,1,24.66,24.66,32,Configurazione posta e account,24/09/2026,1
+C000051,Simone,Bruno,simone.bruno.c000051@example.com,Roma,29/04/2026,0,0.0,0.0,90,Configurazione posta e account,28/07/2026,0
+C000052,Veronica,Palmieri,veronica.palmieri.c000052@example.com,Milano,20/04/2026,2,41.72,20.86,8,Configurazione backup,18/10/2026,1
+C000053,Luca,Bruno,luca.bruno.c000053@example.com,Bologna,15/09/2026,3,58.75,19.58,15,Configurazione posta e account,11/10/2026,3
+C000054,Davide,Basile,davide.basile.c000054@example.com,Roma,04/04/2026,0,0.0,0.0,200,Installazione e configurazione software,09/04/2026,0
+C000055,Gaia,Giordano,gaia.giordano.c000055@example.com,Firenze,14/06/2026,0,0.0,0.0,131,Scansione Anomalie/Vulnerabilità del dispositivo,17/06/2026,0
+C000056,Camilla,Costa,camilla.costa.c000056@example.com,Torino,14/08/2026,3,173.15,57.72,18,Installazione e configurazione software,08/10/2026,3
+C000057,Veronica,Basile,veronica.basile.c000057@example.com,Roma,27/09/2026,2,136.66,68.33,11,Configurazione backup,15/10/2026,3
+C000058,Anna,Costa,anna.costa.c000058@example.com,Milano,16/10/2026,2,111.61,55.81,5,Installazione e configurazione software,21/10/2026,3
+C000059,Elisa,D'Angelo,elisa.d.angelo.c000059@example.com,Roma,07/03/2026,8,559.39,69.92,1,Installazione e configurazione software,25/10/2026,2
+C000060,Matteo,Di Pietro,matteo.di.pietro.c000060@example.com,Milano,06/04/2026,0,0.0,0.0,176,Configurazione posta e account,03/05/2026,0
+C000061,Giovanni,Villa,giovanni.villa.c000061@example.com,Milano,13/10/2026,1,55.94,55.94,9,Scansione Anomalie/Vulnerabilità del dispositivo,17/10/2026,3
+C000062,Giada,Santoro,giada.santoro.c000062@example.com,Roma,03/06/2026,2,43.3,21.65,41,Configurazione posta e account,15/09/2026,1
+C000063,Andrea,D'Angelo,andrea.d.angelo.c000063@example.com,Palermo,29/04/2026,0,0.0,0.0,173,Installazione e configurazione software,06/05/2026,0
+C000064,Giulio,Neri,giulio.neri.c000064@example.com,Milano,30/03/2026,2,38.89,19.45,48,Configurazione posta e account,08/09/2026,1
+C000065,Vittoria,D'Angelo,vittoria.d.angelo.c000065@example.com,Firenze,14/07/2026,0,0.0,0.0,104,Installazione e configurazione software,14/07/2026,0
+C000066,Camilla,Serra,camilla.serra.c000066@example.com,Napoli,19/03/2026,0,0.0,0.0,148,Configurazione backup,31/05/2026,0
+C000067,Giada,De Santis,giada.de.santis.c000067@example.com,Torino,25/03/2026,0,0.0,0.0,209,Installazione e configurazione software,31/03/2026,0
+C000068,Giada,Moretti,giada.moretti.c000068@example.com,Milano,18/03/2026,2,53.19,26.6,14,Installazione e configurazione software,12/10/2026,1
+C000069,Sofia,Basile,sofia.basile.c000069@example.com,Firenze,06/10/2026,1,19.59,19.59,19,Installazione e configurazione software,07/10/2026,3
+C000070,Greta,Fontana,greta.fontana.c000070@example.com,Milano,21/08/2026,10,746.0,74.6,5,Installazione e configurazione software,21/10/2026,2
+C000071,Martina,Marino,martina.marino.c000071@example.com,Milano,18/03/2026,5,120.96,24.19,13,Configurazione posta e account,13/10/2026,1
+C000072,Gabriele,Marino,gabriele.marino.c000072@example.com,Napoli,21/03/2026,0,0.0,0.0,153,Configurazione posta e account,26/05/2026,0
+C000073,Sara,Santoro,sara.santoro.c000073@example.com,Bologna,06/07/2026,0,0.0,0.0,105,Configurazione backup,13/07/2026,0
+C000074,Lorenzo,Rinaldi,lorenzo.rinaldi.c000074@example.com,Napoli,06/05/2026,0,0.0,0.0,169,Scansione Anomalie/Vulnerabilità del dispositivo,10/05/2026,0
+C000075,Lorenzo,Rizzo,lorenzo.rizzo.c000075@example.com,Milano,20/05/2026,0,0.0,0.0,155,Configurazione backup,24/05/2026,0
+C000076,Simone,Valentini,simone.valentini.c000076@example.com,Roma,29/08/2026,1,35.15,35.15,57,Installazione e configurazione software,30/08/2026,3
+C000077,Giada,De Luca,giada.de.luca.c000077@example.com,Roma,04/03/2026,2,44.56,22.28,10,Configurazione posta e account,16/10/2026,1
+C000078,Beatrice,Greco,beatrice.greco.c000078@example.com,Milano,11/09/2026,1,12.41,12.41,39,Configurazione backup,17/09/2026,3
+C000079,Giulio,D'Amico,giulio.d.amico.c000079@example.com,Bologna,25/04/2026,0,0.0,0.0,184,Scansione Anomalie/Vulnerabilità del dispositivo,25/04/2026,0
+C000080,Giacomo,Basile,giacomo.basile.c000080@example.com,Roma,03/07/2026,0,0.0,0.0,109,Installazione e configurazione software,09/07/2026,0
+C000081,Anna,Conti,anna.conti.c000081@example.com,Milano,22/04/2026,1,32.74,32.74,74,Installazione e configurazione software,13/08/2026,1
+C000082,Gabriele,Gallo,gabriele.gallo.c000082@example.com,Milano,02/06/2026,1,39.78,39.78,83,Installazione e configurazione software,04/08/2026,1
+C000083,Emma,Longo,emma.longo.c000083@example.com,Milano,25/07/2026,3,170.03,56.68,6,Installazione e configurazione software,20/10/2026,3
+C000084,Luca,Mancini,luca.mancini.c000084@example.com,Roma,08/03/2026,8,798.81,99.85,6,Configurazione backup,20/10/2026,2
+C000085,Ilaria,Testa,ilaria.testa.c000085@example.com,Roma,30/08/2026,1,17.34,17.34,50,Configurazione posta e account,06/09/2026,3
+C000086,Edoardo,Parisi,edoardo.parisi.c000086@example.com,Bologna,15/05/2026,0,0.0,0.0,98,Configurazione backup,20/07/2026,0
+C000087,Laura,Valentini,laura.valentini.c000087@example.com,Napoli,06/04/2026,1,91.0,91.0,1,Scansione Anomalie/Vulnerabilità del dispositivo,25/10/2026,1
+C000088,Elisa,Moretti,elisa.moretti.c000088@example.com,Milano,13/08/2026,5,123.8,24.76,9,Configurazione posta e account,17/10/2026,3
+C000089,Federico,Esposito,federico.esposito.c000089@example.com,Milano,25/04/2026,0,0.0,0.0,141,Configurazione posta e account,07/06/2026,0
+C000090,Andrea,Basile,andrea.basile.c000090@example.com,Napoli,25/10/2026,1,28.7,28.7,0,Scansione Anomalie/Vulnerabilità del dispositivo,26/10/2026,3
+C000091,Giacomo,Basile,giacomo.basile.c000091@example.com,Torino,08/06/2026,0,0.0,0.0,114,Scansione Anomalie/Vulnerabilità del dispositivo,04/07/2026,0
+C000092,Alessandra,De Santis,alessandra.de.santis.c000092@example.com,Bologna,13/05/2026,0,0.0,0.0,166,Installazione e configurazione software,13/05/2026,0
+C000093,Giada,Parisi,giada.parisi.c000093@example.com,Roma,01/07/2026,1,22.49,22.49,9,Installazione e configurazione software,17/10/2026,3
+C000094,Greta,Conti,greta.conti.c000094@example.com,Roma,07/10/2026,1,7.7,7.7,14,Configurazione posta e account,12/10/2026,3
+C000095,Giada,Rinaldi,giada.rinaldi.c000095@example.com,Torino,03/04/2026,1,27.5,27.5,57,Configurazione posta e account,30/08/2026,1
+C000096,Giovanni,D'Amico,giovanni.d.amico.c000096@example.com,Bologna,18/09/2026,1,37.48,37.48,32,Configurazione posta e account,24/09/2026,3
+C000097,Elisa,Vitale,elisa.vitale.c000097@example.com,Milano,22/04/2026,8,288.08,36.01,16,Configurazione posta e account,10/10/2026,2
+C000098,Pietro,Leone,pietro.leone.c000098@example.com,Milano,23/06/2026,2,88.35,44.18,14,Configurazione backup,12/10/2026,1
+C000099,Luca,De Luca,luca.de.luca.c000099@example.com,Napoli,10/03/2026,0,0.0,0.0,229,Configurazione posta e account,11/03/2026,0
+C000100,Francesco,De Luca,francesco.de.luca.c000100@example.com,Milano,19/07/2026,0,0.0,0.0,99,Scansione Anomalie/Vulnerabilità del dispositivo,19/07/2026,0
+C000101,Edoardo,Serra,edoardo.serra.c000101@example.com,Palermo,03/04/2026,5,98.4,19.68,8,Scansione Anomalie/Vulnerabilità del dispositivo,18/10/2026,1
+C000102,Antonio,Leone,antonio.leone.c000102@example.com,Bologna,13/07/2026,0,0.0,0.0,100,Installazione e configurazione software,18/07/2026,0
+C000103,Lorenzo,Rossi,lorenzo.rossi.c000103@example.com,Milano,14/07/2026,2,145.77,72.89,7,Configurazione backup,19/10/2026,3
+C000104,Luca,Ferraro,luca.ferraro.c000104@example.com,Torino,26/10/2026,1,101.32,101.32,0,Installazione e configurazione software,26/10/2026,3
+C000105,Gabriele,Leone,gabriele.leone.c000105@example.com,Milano,03/07/2026,0,0.0,0.0,109,Installazione e configurazione software,09/07/2026,0
+C000106,Alessandra,Testa,alessandra.testa.c000106@example.com,Bologna,14/05/2026,0,0.0,0.0,155,Configurazione posta e account,24/05/2026,0
+C000107,Elena,D'Angelo,elena.d.angelo.c000107@example.com,Torino,02/10/2026,1,135.09,135.09,18,Configurazione backup,08/10/2026,3
+C000108,Antonio,Mancini,antonio.mancini.c000108@example.com,Roma,01/08/2026,1,23.74,23.74,82,Installazione e configurazione software,05/08/2026,3
+C000109,Roberto,Santoro,roberto.santoro.c000109@example.com,Milano,25/03/2026,3,303.19,101.06,25,Scansione Anomalie/Vulnerabilità del dispositivo,01/10/2026,1
+C000110,Francesco,Carbone,francesco.carbone.c000110@example.com,Milano,29/09/2026,1,14.55,14.55,26,Configurazione posta e account,30/09/2026,3
+C000111,Alice,D'Angelo,alice.d.angelo.c000111@example.com,Roma,10/08/2026,3,52.04,17.35,7,Installazione e configurazione software,19/10/2026,3
+C000112,Simone,Carbone,simone.carbone.c000112@example.com,Roma,24/05/2026,5,167.5,33.5,23,Installazione e configurazione software,03/10/2026,1
+C000113,Sara,Mancini,sara.mancini.c000113@example.com,Torino,12/07/2026,3,106.14,35.38,5,Configurazione posta e account,21/10/2026,3
+C000114,Alessandro,Ferraro,alessandro.ferraro.c000114@example.com,Roma,18/05/2026,2,70.21,35.11,14,Configurazione backup,12/10/2026,1
+C000115,Alessandro,Colombo,alessandro.colombo.c000115@example.com,Bologna,22/08/2026,2,75.06,37.53,23,Installazione e configurazione software,03/10/2026,3
+C000116,Gabriele,Conti,gabriele.conti.c000116@example.com,Roma,13/04/2026,0,0.0,0.0,192,Configurazione backup,17/04/2026,0
+C000117,Valentina,Fontana,valentina.fontana.c000117@example.com,Milano,04/10/2026,1,42.59,42.59,19,Installazione e configurazione software,07/10/2026,3
+C000118,Alessandra,Lombardi,alessandra.lombardi.c000118@example.com,Torino,22/08/2026,2,101.29,50.65,25,Installazione e configurazione software,01/10/2026,3
+C000119,Matteo,Rizzo,matteo.rizzo.c000119@example.com,Napoli,06/09/2026,2,43.08,21.54,2,Configurazione posta e account,24/10/2026,3
+C000120,Beatrice,Greco,beatrice.greco.c000120@example.com,Napoli,06/05/2026,0,0.0,0.0,171,Scansione Anomalie/Vulnerabilità del dispositivo,08/05/2026,0
+C000121,Chiara,Valentini,chiara.valentini.c000121@example.com,Roma,08/06/2026,0,0.0,0.0,134,Installazione e configurazione software,14/06/2026,0
+C000122,Giovanni,Fontana,giovanni.fontana.c000122@example.com,Milano,27/08/2026,4,140.15,35.04,10,Installazione e configurazione software,16/10/2026,3
+C000123,Nicola,Vitale,nicola.vitale.c000123@example.com,Torino,24/08/2026,2,59.38,29.69,7,Scansione Anomalie/Vulnerabilità del dispositivo,19/10/2026,3
+C000124,Pietro,D'Amico,pietro.d.amico.c000124@example.com,Roma,26/09/2026,1,36.83,36.83,24,Configurazione posta e account,02/10/2026,3
+C000125,Valentina,Colombo,valentina.colombo.c000125@example.com,Torino,12/07/2026,0,0.0,0.0,106,Scansione Anomalie/Vulnerabilità del dispositivo,12/07/2026,0
+C000126,Sofia,Mancini,sofia.mancini.c000126@example.com,Roma,01/07/2026,3,124.81,41.6,23,Installazione e configurazione software,03/10/2026,1
+C000127,Gabriele,Longo,gabriele.longo.c000127@example.com,Roma,11/06/2026,1,42.71,42.71,12,Configurazione backup,14/10/2026,1
+C000128,Camilla,Romano,camilla.romano.c000128@example.com,Palermo,07/06/2026,0,0.0,0.0,134,Configurazione backup,14/06/2026,0
+C000129,Elisa,Lombardi,elisa.lombardi.c000129@example.com,Torino,05/04/2026,12,515.66,42.97,5,Installazione e configurazione software,21/10/2026,2
+C000130,Vittoria,Moretti,vittoria.moretti.c000130@example.com,Torino,12/08/2026,2,28.2,14.1,12,Installazione e configurazione software,14/10/2026,3
+C000131,Marco,Rossi,marco.rossi.c000131@example.com,Torino,25/08/2026,1,39.04,39.04,55,Configurazione posta e account,01/09/2026,3
+C000132,Francesco,Parisi,francesco.parisi.c000132@example.com,Roma,08/09/2026,2,81.88,40.94,7,Configurazione backup,19/10/2026,3
+C000133,Andrea,D'Angelo,andrea.d.angelo.c000133@example.com,Roma,10/04/2026,2,32.18,16.09,62,Configurazione posta e account,25/08/2026,1
+C000134,Sofia,Greco,sofia.greco.c000134@example.com,Milano,14/08/2026,2,122.02,61.01,65,Installazione e configurazione software,22/08/2026,3
+C000135,Matilde,Serra,matilde.serra.c000135@example.com,Napoli,02/04/2026,2,101.47,50.74,6,Configurazione posta e account,20/10/2026,1
+C000136,Laura,Lombardi,laura.lombardi.c000136@example.com,Bologna,02/06/2026,0,0.0,0.0,144,Scansione Anomalie/Vulnerabilità del dispositivo,04/06/2026,0
+C000137,Elisa,Vitale,elisa.vitale.c000137@example.com,Palermo,03/07/2026,0,0.0,0.0,110,Installazione e configurazione software,08/07/2026,0
+C000138,Anna,Gentile,anna.gentile.c000138@example.com,Milano,24/05/2026,8,427.18,53.4,5,Scansione Anomalie/Vulnerabilità del dispositivo,21/10/2026,2
+C000139,Leonardo,Rinaldi,leonardo.rinaldi.c000139@example.com,Milano,14/06/2026,0,0.0,0.0,132,Configurazione posta e account,16/06/2026,0
+C000140,Pietro,De Luca,pietro.de.luca.c000140@example.com,Firenze,22/10/2026,1,15.78,15.78,0,Installazione e configurazione software,26/10/2026,3
+C000141,Greta,Rinaldi,greta.rinaldi.c000141@example.com,Napoli,21/07/2026,0,0.0,0.0,95,Configurazione posta e account,23/07/2026,0
+C000142,Pietro,Conti,pietro.conti.c000142@example.com,Milano,06/03/2026,5,260.41,52.08,14,Configurazione backup,12/10/2026,1
+C000143,Alessandro,De Luca,alessandro.de.luca.c000143@example.com,Milano,08/04/2026,2,60.65,30.33,42,Scansione Anomalie/Vulnerabilità del dispositivo,14/09/2026,1
+C000144,Giada,Marino,giada.marino.c000144@example.com,Torino,21/10/2026,1,25.95,25.95,5,Installazione e configurazione software,21/10/2026,3
+C000145,Sara,Fiore,sara.fiore.c000145@example.com,Napoli,20/05/2026,11,285.56,25.96,10,Configurazione posta e account,16/10/2026,2
+C000146,Nicola,Leone,nicola.leone.c000146@example.com,Torino,03/05/2026,0,0.0,0.0,156,Installazione e configurazione software,23/05/2026,0
+C000147,Pietro,Colombo,pietro.colombo.c000147@example.com,Roma,16/07/2026,8,412.47,51.56,1,Scansione Anomalie/Vulnerabilità del dispositivo,25/10/2026,2
+C000148,Giulia,Giordano,giulia.giordano.c000148@example.com,Napoli,25/04/2026,0,0.0,0.0,177,Configurazione posta e account,02/05/2026,0
+C000149,Giovanni,Fontana,giovanni.fontana.c000149@example.com,Bologna,03/08/2026,2,33.13,16.57,53,Configurazione backup,03/09/2026,3
+C000150,Luca,Marchetti,luca.marchetti.c000150@example.com,Bologna,03/09/2026,1,118.45,118.45,53,Scansione Anomalie/Vulnerabilità del dispositivo,03/09/2026,3
+C000151,Elisa,Giordano,elisa.giordano.c000151@example.com,Roma,18/06/2026,1,11.37,11.37,88,Installazione e configurazione software,30/07/2026,1
+C000152,Filippo,Gentile,filippo.gentile.c000152@example.com,Torino,19/10/2026,1,17.3,17.3,2,Configurazione backup,24/10/2026,3
+C000153,Michele,Marino,michele.marino.c000153@example.com,Bologna,27/09/2026,1,57.41,57.41,23,Installazione e configurazione software,03/10/2026,3
+C000154,Matteo,Bianchi,matteo.bianchi.c000154@example.com,Milano,14/05/2026,8,305.4,38.18,13,Configurazione backup,13/10/2026,2
+C000155,Gaia,Parisi,gaia.parisi.c000155@example.com,Torino,25/05/2026,0,0.0,0.0,153,Scansione Anomalie/Vulnerabilità del dispositivo,26/05/2026,0
+C000156,Emma,Gentile,emma.gentile.c000156@example.com,Milano,15/05/2026,3,117.94,39.31,4,Configurazione backup,22/10/2026,1
+C000157,Giulia,Palmieri,giulia.palmieri.c000157@example.com,Bologna,04/05/2026,0,0.0,0.0,146,Installazione e configurazione software,02/06/2026,0
+C000158,Pietro,Esposito,pietro.esposito.c000158@example.com,Roma,14/04/2026,12,272.16,22.68,1,Configurazione posta e account,25/10/2026,2
+C000159,Veronica,Parisi,veronica.parisi.c000159@example.com,Milano,21/08/2026,2,103.13,51.57,55,Configurazione backup,01/09/2026,3
+C000160,Beatrice,Gentile,beatrice.gentile.c000160@example.com,Roma,10/05/2026,1,38.98,38.98,42,Scansione Anomalie/Vulnerabilità del dispositivo,14/09/2026,1
+C000161,Sofia,Bruno,sofia.bruno.c000161@example.com,Milano,17/10/2026,1,27.53,27.53,7,Installazione e configurazione software,19/10/2026,3
+C000162,Elena,Bianchi,elena.bianchi.c000162@example.com,Roma,19/05/2026,1,30.55,30.55,30,Installazione e configurazione software,26/09/2026,1
+C000163,Federica,Leone,federica.leone.c000163@example.com,Torino,06/03/2026,0,0.0,0.0,115,Configurazione backup,03/07/2026,0
+C000164,Vittoria,Moretti,vittoria.moretti.c000164@example.com,Firenze,26/05/2026,0,0.0,0.0,148,Configurazione posta e account,31/05/2026,0
+C000165,Martina,Rizzo,martina.rizzo.c000165@example.com,Firenze,11/10/2026,2,67.92,33.96,1,Configurazione backup,25/10/2026,3
+C000166,Andrea,Russo,andrea.russo.c000166@example.com,Napoli,29/04/2026,2,78.71,39.36,19,Configurazione posta e account,07/10/2026,1
+C000167,Beatrice,Parisi,beatrice.parisi.c000167@example.com,Napoli,01/08/2026,1,32.69,32.69,82,Configurazione backup,05/08/2026,3
+C000168,Emma,Serra,emma.serra.c000168@example.com,Torino,14/06/2026,0,0.0,0.0,123,Configurazione posta e account,25/06/2026,0
+C000169,Marco,Bruno,marco.bruno.c000169@example.com,Torino,08/03/2026,0,0.0,0.0,116,Configurazione backup,02/07/2026,0
+C000170,Pietro,Russo,pietro.russo.c000170@example.com,Palermo,22/05/2026,3,45.52,15.17,0,Configurazione posta e account,26/10/2026,1
+C000171,Sofia,De Santis,sofia.de.santis.c000171@example.com,Roma,03/05/2026,3,106.06,35.35,30,Configurazione backup,26/09/2026,1
+C000172,Gabriele,Fiore,gabriele.fiore.c000172@example.com,Bologna,22/05/2026,0,0.0,0.0,148,Installazione e configurazione software,31/05/2026,0
+C000173,Alessandra,De Luca,alessandra.de.luca.c000173@example.com,Milano,30/09/2026,1,16.29,16.29,25,Configurazione backup,01/10/2026,3
+C000174,Giada,Marchetti,giada.marchetti.c000174@example.com,Napoli,25/09/2026,4,122.93,30.73,2,Installazione e configurazione software,24/10/2026,3
+C000175,Alice,Martini,alice.martini.c000175@example.com,Bologna,12/04/2026,2,137.79,68.9,3,Scansione Anomalie/Vulnerabilità del dispositivo,23/10/2026,1
+C000176,Matteo,Rossi,matteo.rossi.c000176@example.com,Roma,08/04/2026,0,0.0,0.0,170,Scansione Anomalie/Vulnerabilità del dispositivo,09/05/2026,0
+C000177,Nicola,Villa,nicola.villa.c000177@example.com,Roma,30/07/2026,1,37.82,37.82,82,Scansione Anomalie/Vulnerabilità del dispositivo,05/08/2026,3
+C000178,Lorenzo,Neri,lorenzo.neri.c000178@example.com,Firenze,20/06/2026,4,145.01,36.25,13,Configurazione backup,13/10/2026,1
+C000179,Leonardo,D'Amico,leonardo.d.amico.c000179@example.com,Milano,07/06/2026,0,0.0,0.0,138,Installazione e configurazione software,10/06/2026,0
+C000180,Antonio,Bianchi,antonio.bianchi.c000180@example.com,Milano,05/04/2026,0,0.0,0.0,197,Configurazione posta e account,12/04/2026,0
+C000181,Gaia,Ricci,gaia.ricci.c000181@example.com,Roma,20/06/2026,6,220.44,36.74,11,Configurazione posta e account,15/10/2026,2
+C000182,Elena,De Luca,elena.de.luca.c000182@example.com,Bologna,09/04/2026,5,130.79,26.16,12,Scansione Anomalie/Vulnerabilità del dispositivo,14/10/2026,1
+C000183,Francesca,Moretti,francesca.moretti.c000183@example.com,Roma,25/03/2026,8,352.34,44.04,4,Installazione e configurazione software,22/10/2026,2
+C000184,Sofia,Rinaldi,sofia.rinaldi.c000184@example.com,Torino,11/04/2026,1,34.86,34.86,75,Configurazione backup,12/08/2026,1
+C000185,Simone,Pellegrini,simone.pellegrini.c000185@example.com,Milano,10/04/2026,0,0.0,0.0,199,Configurazione posta e account,10/04/2026,0
+C000186,Alessandro,Moretti,alessandro.moretti.c000186@example.com,Bologna,14/04/2026,1,16.42,16.42,11,Configurazione posta e account,15/10/2026,1
+C000187,Federica,Gallo,federica.gallo.c000187@example.com,Torino,20/07/2026,3,91.85,30.62,40,Installazione e configurazione software,16/09/2026,3
+C000188,Francesca,Fontana,francesca.fontana.c000188@example.com,Bologna,28/09/2026,1,18.82,18.82,27,Scansione Anomalie/Vulnerabilità del dispositivo,29/09/2026,3
+C000189,Sofia,D'Angelo,sofia.d.angelo.c000189@example.com,Torino,23/04/2026,0,0.0,0.0,173,Configurazione posta e account,06/05/2026,0
+C000190,Elena,Marino,elena.marino.c000190@example.com,Torino,25/03/2026,3,116.92,38.97,5,Configurazione posta e account,21/10/2026,1
+C000191,Federico,Bruno,federico.bruno.c000191@example.com,Napoli,10/06/2026,0,0.0,0.0,134,Scansione Anomalie/Vulnerabilità del dispositivo,14/06/2026,0
+C000192,Matteo,Colombo,matteo.colombo.c000192@example.com,Bologna,28/08/2026,1,16.51,16.51,53,Installazione e configurazione software,03/09/2026,3
+C000193,Riccardo,Barbieri,riccardo.barbieri.c000193@example.com,Napoli,18/03/2026,0,0.0,0.0,117,Configurazione posta e account,01/07/2026,0
+C000194,Matteo,Marchetti,matteo.marchetti.c000194@example.com,Torino,04/07/2026,0,0.0,0.0,114,Configurazione backup,04/07/2026,0
+C000195,Filippo,Villa,filippo.villa.c000195@example.com,Palermo,20/08/2026,1,28.2,28.2,63,Configurazione posta e account,24/08/2026,3
+C000196,Paolo,Rinaldi,paolo.rinaldi.c000196@example.com,Napoli,10/10/2026,1,39.95,39.95,9,Configurazione backup,17/10/2026,3
+C000197,Gabriele,Neri,gabriele.neri.c000197@example.com,Napoli,01/08/2026,1,15.63,15.63,84,Configurazione posta e account,03/08/2026,3
+C000198,Laura,Bianchi,laura.bianchi.c000198@example.com,Milano,16/05/2026,0,0.0,0.0,150,Configurazione backup,29/05/2026,0
+C000199,Francesca,Neri,francesca.neri.c000199@example.com,Bologna,11/03/2026,0,0.0,0.0,173,Configurazione posta e account,06/05/2026,0
+C000200,Alessandra,Serra,alessandra.serra.c000200@example.com,Bologna,21/04/2026,9,239.14,26.57,14,Scansione Anomalie/Vulnerabilità del dispositivo,12/10/2026,2
+C000201,Michele,Carbone,michele.carbone.c000201@example.com,Roma,15/06/2026,5,131.78,26.36,7,Configurazione backup,19/10/2026,1
+C000202,Giulia,Romano,giulia.romano.c000202@example.com,Torino,10/09/2026,1,45.31,45.31,44,Configurazione posta e account,12/09/2026,3
+C000203,Riccardo,Ferraro,riccardo.ferraro.c000203@example.com,Milano,25/03/2026,0,0.0,0.0,151,Configurazione backup,28/05/2026,0
+C000204,Michele,Serra,michele.serra.c000204@example.com,Milano,01/05/2026,0,0.0,0.0,137,Installazione e configurazione software,11/06/2026,0
+C000205,Federica,Marchetti,federica.marchetti.c000205@example.com,Roma,23/07/2026,5,126.8,25.36,8,Configurazione posta e account,18/10/2026,3
+C000206,Roberto,Rizzo,roberto.rizzo.c000206@example.com,Bologna,04/08/2026,1,15.27,15.27,79,Installazione e configurazione software,08/08/2026,3
+C000207,Chiara,Basile,chiara.basile.c000207@example.com,Roma,16/08/2026,1,22.22,22.22,65,Installazione e configurazione software,22/08/2026,3
+C000208,Filippo,Conti,filippo.conti.c000208@example.com,Firenze,31/05/2026,0,0.0,0.0,148,Scansione Anomalie/Vulnerabilità del dispositivo,31/05/2026,0
+C000209,Lorenzo,Gentile,lorenzo.gentile.c000209@example.com,Napoli,01/04/2026,1,15.05,15.05,43,Installazione e configurazione software,13/09/2026,1
+C000210,Matilde,Valentini,matilde.valentini.c000210@example.com,Roma,06/10/2026,1,24.34,24.34,18,Installazione e configurazione software,08/10/2026,3
+C000211,Sofia,Bianchi,sofia.bianchi.c000211@example.com,Torino,14/10/2026,1,29.38,29.38,7,Configurazione backup,19/10/2026,3
+C000212,Davide,Gallo,davide.gallo.c000212@example.com,Torino,26/10/2026,1,13.78,13.78,0,Configurazione posta e account,26/10/2026,3
+C000213,Chiara,Marino,chiara.marino.c000213@example.com,Milano,01/03/2026,4,170.68,42.67,1,Installazione e configurazione software,25/10/2026,1
+C000214,Beatrice,Greco,beatrice.greco.c000214@example.com,Napoli,25/09/2026,1,149.85,149.85,26,Scansione Anomalie/Vulnerabilità del dispositivo,30/09/2026,3
+C000215,Sofia,De Luca,sofia.de.luca.c000215@example.com,Napoli,13/07/2026,5,108.01,21.6,16,Configurazione backup,10/10/2026,3
+C000216,Giulio,Villa,giulio.villa.c000216@example.com,Napoli,04/05/2026,0,0.0,0.0,172,Configurazione posta e account,07/05/2026,0
+C000217,Andrea,Rizzo,andrea.rizzo.c000217@example.com,Milano,04/08/2026,1,53.88,53.88,79,Configurazione backup,08/08/2026,3
+C000218,Francesca,Leone,francesca.leone.c000218@example.com,Roma,16/07/2026,1,31.25,31.25,10,Configurazione posta e account,16/10/2026,3
+C000219,Leonardo,Marchetti,leonardo.marchetti.c000219@example.com,Roma,04/09/2026,1,28.98,28.98,49,Installazione e configurazione software,07/09/2026,3
+C000220,Gaia,Santoro,gaia.santoro.c000220@example.com,Torino,04/05/2026,2,93.49,46.75,15,Installazione e configurazione software,11/10/2026,1
+C000221,Emma,Villa,emma.villa.c000221@example.com,Napoli,28/05/2026,7,224.6,32.09,14,Configurazione posta e account,12/10/2026,2
+C000222,Francesco,D'Angelo,francesco.d.angelo.c000222@example.com,Roma,07/09/2026,6,227.4,37.9,3,Scansione Anomalie/Vulnerabilità del dispositivo,23/10/2026,3
+C000223,Gaia,Fiore,gaia.fiore.c000223@example.com,Milano,13/03/2026,0,0.0,0.0,117,Configurazione posta e account,01/07/2026,0
+C000224,Giulio,Carbone,giulio.carbone.c000224@example.com,Torino,30/03/2026,2,49.57,24.79,59,Configurazione posta e account,28/08/2026,1
+C000225,Veronica,Marchetti,veronica.marchetti.c000225@example.com,Firenze,07/05/2026,0,0.0,0.0,112,Configurazione backup,06/07/2026,0
+C000226,Lorenzo,Gentile,lorenzo.gentile.c000226@example.com,Roma,12/04/2026,0,0.0,0.0,106,Configurazione posta e account,12/07/2026,0
+C000227,Giacomo,Villa,giacomo.villa.c000227@example.com,Milano,26/05/2026,0,0.0,0.0,147,Configurazione posta e account,01/06/2026,0
+C000228,Paolo,Palmieri,paolo.palmieri.c000228@example.com,Milano,22/05/2026,0,0.0,0.0,150,Configurazione backup,29/05/2026,0
+C000229,Luca,Bruno,luca.bruno.c000229@example.com,Firenze,26/10/2026,1,43.52,43.52,0,Configurazione posta e account,26/10/2026,3
+C000230,Giulio,Romano,giulio.romano.c000230@example.com,Bologna,05/08/2026,4,134.44,33.61,7,Scansione Anomalie/Vulnerabilità del dispositivo,19/10/2026,3
+C000231,Giulio,D'Amico,giulio.d.amico.c000231@example.com,Roma,15/07/2026,0,0.0,0.0,103,Configurazione posta e account,15/07/2026,0
+C000232,Giacomo,Moretti,giacomo.moretti.c000232@example.com,Roma,22/07/2026,1,14.24,14.24,34,Configurazione backup,22/09/2026,3
+C000233,Riccardo,Barbieri,riccardo.barbieri.c000233@example.com,Roma,15/05/2026,0,0.0,0.0,150,Configurazione posta e account,29/05/2026,0
+C000234,Giada,Serra,giada.serra.c000234@example.com,Milano,30/09/2026,1,48.22,48.22,19,Configurazione posta e account,07/10/2026,3
+C000235,Elisa,Lombardi,elisa.lombardi.c000235@example.com,Palermo,02/04/2026,0,0.0,0.0,105,Installazione e configurazione software,13/07/2026,0
+C000236,Davide,Romano,davide.romano.c000236@example.com,Torino,26/05/2026,0,0.0,0.0,132,Installazione e configurazione software,16/06/2026,0
+C000237,Giulio,D'Angelo,giulio.d.angelo.c000237@example.com,Milano,15/03/2026,0,0.0,0.0,223,Configurazione posta e account,17/03/2026,0
+C000238,Veronica,Lombardi,veronica.lombardi.c000238@example.com,Torino,07/05/2026,16,476.36,29.77,6,Installazione e configurazione software,20/10/2026,2
+C000239,Giada,Neri,giada.neri.c000239@example.com,Napoli,01/09/2026,3,81.2,27.07,9,Configurazione backup,17/10/2026,3
+C000240,Sofia,Basile,sofia.basile.c000240@example.com,Roma,17/04/2026,12,1609.7,134.14,2,Scansione Anomalie/Vulnerabilità del dispositivo,24/10/2026,2
+C000241,Roberto,Serra,roberto.serra.c000241@example.com,Roma,18/05/2026,0,0.0,0.0,157,Installazione e configurazione software,22/05/2026,0
+C000242,Beatrice,Colombo,beatrice.colombo.c000242@example.com,Firenze,26/04/2026,0,0.0,0.0,178,Configurazione backup,01/05/2026,0
+C000243,Gaia,De Luca,gaia.de.luca.c000243@example.com,Napoli,24/03/2026,4,102.71,25.68,4,Installazione e configurazione software,22/10/2026,1
+C000244,Filippo,Romano,filippo.romano.c000244@example.com,Milano,05/09/2026,1,91.13,91.13,48,Installazione e configurazione software,08/09/2026,3
+C000245,Federico,Ferraro,federico.ferraro.c000245@example.com,Milano,20/06/2026,0,0.0,0.0,115,Configurazione backup,03/07/2026,0
+C000246,Laura,Testa,laura.testa.c000246@example.com,Bologna,10/05/2026,0,0.0,0.0,165,Installazione e configurazione software,14/05/2026,0
+C000247,Giovanni,Colombo,giovanni.colombo.c000247@example.com,Roma,27/07/2026,2,94.29,47.15,68,Installazione e configurazione software,19/08/2026,3
+C000248,Valentina,Gentile,valentina.gentile.c000248@example.com,Napoli,17/04/2026,0,0.0,0.0,187,Scansione Anomalie/Vulnerabilità del dispositivo,22/04/2026,0
+C000249,Laura,Fontana,laura.fontana.c000249@example.com,Roma,02/08/2026,11,351.54,31.96,3,Configurazione backup,23/10/2026,2
+C000250,Matteo,Barbieri,matteo.barbieri.c000250@example.com,Milano,30/09/2026,1,12.95,12.95,21,Configurazione posta e account,05/10/2026,3
+C000251,Federico,Barbieri,federico.barbieri.c000251@example.com,Roma,27/03/2026,1,28.48,28.48,3,Installazione e configurazione software,23/10/2026,1
+C000252,Vittoria,Longo,vittoria.longo.c000252@example.com,Bologna,12/08/2026,3,77.13,25.71,5,Configurazione backup,21/10/2026,3
+C000253,Giovanni,Serra,giovanni.serra.c000253@example.com,Roma,23/05/2026,1,39.99,39.99,33,Installazione e configurazione software,23/09/2026,1
+C000254,Sofia,Bianchi,sofia.bianchi.c000254@example.com,Roma,22/07/2026,3,155.52,51.84,6,Scansione Anomalie/Vulnerabilità del dispositivo,20/10/2026,3
+C000255,Nicola,Rossi,nicola.rossi.c000255@example.com,Roma,25/08/2026,1,18.06,18.06,62,Configurazione posta e account,25/08/2026,3
+C000256,Giacomo,Greco,giacomo.greco.c000256@example.com,Napoli,26/04/2026,2,66.03,33.02,0,Scansione Anomalie/Vulnerabilità del dispositivo,26/10/2026,1
+C000257,Francesca,Carbone,francesca.carbone.c000257@example.com,Milano,08/10/2026,2,41.78,20.89,12,Configurazione posta e account,14/10/2026,3
+C000258,Luca,Villa,luca.villa.c000258@example.com,Roma,22/04/2026,0,0.0,0.0,185,Scansione Anomalie/Vulnerabilità del dispositivo,24/04/2026,0
+C000259,Elena,Leone,elena.leone.c000259@example.com,Napoli,14/09/2026,1,20.5,20.5,40,Installazione e configurazione software,16/09/2026,3
+C000260,Gaia,Greco,gaia.greco.c000260@example.com,Napoli,21/03/2026,0,0.0,0.0,194,Configurazione backup,15/04/2026,0
+C000261,Matteo,De Santis,matteo.de.santis.c000261@example.com,Firenze,10/04/2026,0,0.0,0.0,192,Configurazione posta e account,17/04/2026,0
+C000262,Camilla,Conti,camilla.conti.c000262@example.com,Roma,19/05/2026,0,0.0,0.0,157,Installazione e configurazione software,22/05/2026,0
+C000263,Chiara,Valentini,chiara.valentini.c000263@example.com,Roma,21/04/2026,8,298.19,37.27,10,Installazione e configurazione software,16/10/2026,2
+C000264,Francesca,Giordano,francesca.giordano.c000264@example.com,Bologna,06/10/2026,4,146.26,36.57,5,Scansione Anomalie/Vulnerabilità del dispositivo,21/10/2026,3
+C000265,Giovanni,Mancini,giovanni.mancini.c000265@example.com,Roma,30/08/2026,3,131.64,43.88,13,Configurazione backup,13/10/2026,3
+C000266,Francesco,Esposito,francesco.esposito.c000266@example.com,Palermo,29/08/2026,4,88.16,22.04,1,Installazione e configurazione software,25/10/2026,3
+C000267,Giulio,Basile,giulio.basile.c000267@example.com,Roma,05/05/2026,0,0.0,0.0,174,Configurazione posta e account,05/05/2026,0
+C000268,Giovanni,Valentini,giovanni.valentini.c000268@example.com,Roma,03/07/2026,3,87.06,29.02,37,Configurazione posta e account,19/09/2026,1
+C000269,Filippo,Martini,filippo.martini.c000269@example.com,Torino,28/06/2026,0,0.0,0.0,120,Configurazione posta e account,28/06/2026,0
+C000270,Pietro,Romano,pietro.romano.c000270@example.com,Roma,12/09/2026,3,84.41,28.14,11,Configurazione posta e account,15/10/2026,3
+C000271,Matilde,Rizzo,matilde.rizzo.c000271@example.com,Milano,09/08/2026,1,15.78,15.78,75,Configurazione posta e account,12/08/2026,3
+C000272,Antonio,Marino,antonio.marino.c000272@example.com,Torino,13/04/2026,0,0.0,0.0,115,Installazione e configurazione software,03/07/2026,0
+C000273,Paolo,Romano,paolo.romano.c000273@example.com,Napoli,09/10/2026,2,60.17,30.09,8,Configurazione posta e account,18/10/2026,3
+C000274,Beatrice,Ferraro,beatrice.ferraro.c000274@example.com,Torino,23/04/2026,0,0.0,0.0,184,Configurazione posta e account,25/04/2026,0
+C000275,Martina,Leone,martina.leone.c000275@example.com,Firenze,12/03/2026,0,0.0,0.0,139,Installazione e configurazione software,09/06/2026,0
+C000276,Nicola,Colombo,nicola.colombo.c000276@example.com,Milano,12/07/2026,1,25.05,25.05,10,Configurazione posta e account,16/10/2026,3
+C000277,Veronica,De Luca,veronica.de.luca.c000277@example.com,Roma,22/08/2026,3,83.43,27.81,33,Configurazione backup,23/09/2026,3
+C000278,Gaia,Serra,gaia.serra.c000278@example.com,Milano,09/04/2026,1,20.8,20.8,52,Configurazione posta e account,04/09/2026,1
+C000279,Vittoria,Rizzo,vittoria.rizzo.c000279@example.com,Milano,10/05/2026,0,0.0,0.0,169,Scansione Anomalie/Vulnerabilità del dispositivo,10/05/2026,0
+C000280,Chiara,Mancini,chiara.mancini.c000280@example.com,Torino,07/03/2026,0,0.0,0.0,229,Configurazione backup,11/03/2026,0
+C000281,Luca,Pellegrini,luca.pellegrini.c000281@example.com,Torino,06/05/2026,1,27.49,27.49,37,Scansione Anomalie/Vulnerabilità del dispositivo,19/09/2026,1
+C000282,Emma,Gallo,emma.gallo.c000282@example.com,Milano,21/03/2026,0,0.0,0.0,213,Configurazione backup,27/03/2026,0
+C000283,Federico,Valentini,federico.valentini.c000283@example.com,Roma,05/04/2026,9,350.19,38.91,5,Installazione e configurazione software,21/10/2026,2
+C000284,Federico,De Luca,federico.de.luca.c000284@example.com,Roma,18/08/2026,3,113.92,37.97,23,Configurazione posta e account,03/10/2026,3
+C000285,Antonio,Costa,antonio.costa.c000285@example.com,Milano,12/07/2026,1,27.46,27.46,73,Installazione e configurazione software,14/08/2026,3
+C000286,Giacomo,Fontana,giacomo.fontana.c000286@example.com,Milano,25/10/2026,1,79.48,79.48,1,Configurazione backup,25/10/2026,3
+C000287,Filippo,Valentini,filippo.valentini.c000287@example.com,Torino,15/05/2026,0,0.0,0.0,158,Installazione e configurazione software,21/05/2026,0
+C000288,Simone,Esposito,simone.esposito.c000288@example.com,Roma,15/08/2026,3,81.84,27.28,40,Configurazione posta e account,16/09/2026,3
+C000289,Anna,Pellegrini,anna.pellegrini.c000289@example.com,Roma,13/08/2026,2,78.42,39.21,39,Configurazione backup,17/09/2026,3
+C000290,Matteo,Di Pietro,matteo.di.pietro.c000290@example.com,Firenze,18/06/2026,0,0.0,0.0,129,Configurazione backup,19/06/2026,0
+C000291,Gaia,Santoro,gaia.santoro.c000291@example.com,Palermo,14/08/2026,2,100.35,50.18,12,Configurazione posta e account,14/10/2026,3
+C000292,Francesco,Carbone,francesco.carbone.c000292@example.com,Milano,18/10/2026,3,154.61,51.54,1,Installazione e configurazione software,25/10/2026,3
+C000293,Riccardo,Villa,riccardo.villa.c000293@example.com,Bologna,10/04/2026,0,0.0,0.0,199,Configurazione posta e account,10/04/2026,0
+C000294,Federico,Vitale,federico.vitale.c000294@example.com,Milano,25/06/2026,0,0.0,0.0,118,Installazione e configurazione software,30/06/2026,0
+C000295,Luca,D'Angelo,luca.d.angelo.c000295@example.com,Milano,28/04/2026,1,17.11,17.11,46,Configurazione posta e account,10/09/2026,1
+C000296,Valentina,Fiore,valentina.fiore.c000296@example.com,Roma,22/03/2026,5,156.13,31.23,5,Configurazione posta e account,21/10/2026,1
+C000297,Marco,Villa,marco.villa.c000297@example.com,Milano,22/06/2026,0,0.0,0.0,123,Installazione e configurazione software,25/06/2026,0
+C000298,Matteo,Basile,matteo.basile.c000298@example.com,Napoli,19/04/2026,2,84.72,42.36,0,Installazione e configurazione software,26/10/2026,1
+C000299,Antonio,Marino,antonio.marino.c000299@example.com,Bologna,25/10/2026,1,17.24,17.24,0,Scansione Anomalie/Vulnerabilità del dispositivo,26/10/2026,3
+C000300,Federico,Costa,federico.costa.c000300@example.com,Bologna,05/04/2026,12,490.73,40.89,3,Installazione e configurazione software,23/10/2026,2
+C000301,Veronica,Rinaldi,veronica.rinaldi.c000301@example.com,Milano,12/03/2026,3,134.87,44.96,0,Scansione Anomalie/Vulnerabilità del dispositivo,26/10/2026,1
+C000302,Greta,Martini,greta.martini.c000302@example.com,Roma,06/09/2026,2,56.82,28.41,19,Configurazione backup,07/10/2026,3
+C000303,Nicola,Palmieri,nicola.palmieri.c000303@example.com,Napoli,31/07/2026,6,249.1,41.52,18,Scansione Anomalie/Vulnerabilità del dispositivo,08/10/2026,2
+C000304,Gaia,D'Angelo,gaia.d.angelo.c000304@example.com,Napoli,23/10/2026,1,41.72,41.72,1,Configurazione posta e account,25/10/2026,3
+C000305,Gaia,Russo,gaia.russo.c000305@example.com,Firenze,16/03/2026,0,0.0,0.0,189,Configurazione backup,20/04/2026,0
+C000306,Giulio,Palmieri,giulio.palmieri.c000306@example.com,Roma,20/06/2026,0,0.0,0.0,124,Configurazione posta e account,24/06/2026,0
+C000307,Valentina,Valentini,valentina.valentini.c000307@example.com,Milano,25/05/2026,10,1009.45,100.95,30,Installazione e configurazione software,26/09/2026,2
+C000308,Camilla,Moretti,camilla.moretti.c000308@example.com,Napoli,15/03/2026,0,0.0,0.0,220,Scansione Anomalie/Vulnerabilità del dispositivo,20/03/2026,0
+C000309,Elena,Bruno,elena.bruno.c000309@example.com,Milano,06/09/2026,5,229.98,46.0,12,Installazione e configurazione software,14/10/2026,3
+C000310,Martina,Russo,martina.russo.c000310@example.com,Palermo,08/09/2026,1,28.81,28.81,41,Configurazione posta e account,15/09/2026,3
+C000311,Emma,D'Amico,emma.d.amico.c000311@example.com,Torino,27/04/2026,8,238.74,29.84,7,Configurazione backup,19/10/2026,2
+C000312,Federico,Carbone,federico.carbone.c000312@example.com,Roma,08/05/2026,1,35.34,35.34,39,Configurazione posta e account,17/09/2026,1
+C000313,Davide,Serra,davide.serra.c000313@example.com,Roma,29/08/2026,2,57.38,28.69,38,Configurazione posta e account,18/09/2026,3
+C000314,Francesco,Longo,francesco.longo.c000314@example.com,Napoli,29/05/2026,0,0.0,0.0,149,Scansione Anomalie/Vulnerabilità del dispositivo,30/05/2026,0
+C000315,Federico,Fiore,federico.fiore.c000315@example.com,Torino,24/06/2026,3,50.3,16.77,1,Configurazione posta e account,25/10/2026,1
+C000316,Luca,Ferraro,luca.ferraro.c000316@example.com,Torino,11/09/2026,1,46.12,46.12,45,Configurazione backup,11/09/2026,3
+C000317,Giovanni,Pellegrini,giovanni.pellegrini.c000317@example.com,Torino,10/03/2026,13,344.0,26.46,4,Configurazione posta e account,22/10/2026,2
+C000318,Francesco,Valentini,francesco.valentini.c000318@example.com,Palermo,24/10/2026,1,57.83,57.83,0,Scansione Anomalie/Vulnerabilità del dispositivo,26/10/2026,3
+C000319,Chiara,Fiore,chiara.fiore.c000319@example.com,Milano,05/04/2026,0,0.0,0.0,167,Installazione e configurazione software,12/05/2026,0
+C000320,Greta,Gallo,greta.gallo.c000320@example.com,Palermo,03/08/2026,12,650.16,54.18,9,Configurazione backup,17/10/2026,2
+C000321,Leonardo,Gallo,leonardo.gallo.c000321@example.com,Roma,20/04/2026,0,0.0,0.0,185,Installazione e configurazione software,24/04/2026,0
+C000322,Sara,Rizzo,sara.rizzo.c000322@example.com,Bologna,20/06/2026,0,0.0,0.0,126,Configurazione backup,22/06/2026,0
+C000323,Francesca,Vitale,francesca.vitale.c000323@example.com,Firenze,09/05/2026,8,391.39,48.92,30,Scansione Anomalie/Vulnerabilità del dispositivo,26/09/2026,2
+C000324,Edoardo,Martini,edoardo.martini.c000324@example.com,Napoli,14/06/2026,3,91.78,30.59,8,Scansione Anomalie/Vulnerabilità del dispositivo,18/10/2026,1
+C000325,Valentina,Esposito,valentina.esposito.c000325@example.com,Torino,17/05/2026,3,133.06,44.35,60,Installazione e configurazione software,27/08/2026,1
+C000326,Matteo,D'Amico,matteo.d.amico.c000326@example.com,Napoli,28/09/2026,1,38.04,38.04,22,Configurazione posta e account,04/10/2026,3
+C000327,Leonardo,Conti,leonardo.conti.c000327@example.com,Firenze,09/03/2026,0,0.0,0.0,227,Configurazione backup,13/03/2026,0
+C000328,Elisa,Fiore,elisa.fiore.c000328@example.com,Bologna,26/04/2026,0,0.0,0.0,180,Configurazione posta e account,29/04/2026,0
+C000329,Antonio,Neri,antonio.neri.c000329@example.com,Torino,02/10/2026,1,33.37,33.37,23,Installazione e configurazione software,03/10/2026,3
+C000330,Davide,Mancini,davide.mancini.c000330@example.com,Palermo,27/07/2026,4,234.44,58.61,11,Installazione e configurazione software,15/10/2026,3
+C000331,Vittoria,Fiore,vittoria.fiore.c000331@example.com,Roma,07/09/2026,6,185.55,30.93,6,Configurazione posta e account,20/10/2026,3
+C000332,Giacomo,Parisi,giacomo.parisi.c000332@example.com,Roma,20/08/2026,1,38.62,38.62,66,Scansione Anomalie/Vulnerabilità del dispositivo,21/08/2026,3
+C000333,Federico,Testa,federico.testa.c000333@example.com,Milano,14/09/2026,1,34.97,34.97,41,Scansione Anomalie/Vulnerabilità del dispositivo,15/09/2026,3
+C000334,Davide,Carbone,davide.carbone.c000334@example.com,Roma,03/04/2026,0,0.0,0.0,199,Configurazione backup,10/04/2026,0
+C000335,Matilde,Gallo,matilde.gallo.c000335@example.com,Roma,21/09/2026,1,26.45,26.45,29,Installazione e configurazione software,27/09/2026,3
+C000336,Gaia,Romano,gaia.romano.c000336@example.com,Torino,31/03/2026,0,0.0,0.0,140,Configurazione posta e account,08/06/2026,0
+C000337,Valentina,Leone,valentina.leone.c000337@example.com,Torino,15/04/2026,5,187.89,37.58,4,Configurazione backup,22/10/2026,1
+C000338,Matilde,Serra,matilde.serra.c000338@example.com,Milano,08/05/2026,1,18.22,18.22,5,Configurazione posta e account,21/10/2026,1
+C000339,Alice,De Santis,alice.de.santis.c000339@example.com,Milano,30/05/2026,0,0.0,0.0,144,Configurazione posta e account,04/06/2026,0
+C000340,Francesca,Russo,francesca.russo.c000340@example.com,Firenze,28/05/2026,0,0.0,0.0,108,Configurazione backup,10/07/2026,0
+C000341,Emma,Testa,emma.testa.c000341@example.com,Milano,09/03/2026,0,0.0,0.0,92,Configurazione posta e account,26/07/2026,0
+C000342,Simone,Gentile,simone.gentile.c000342@example.com,Torino,30/08/2026,2,45.31,22.66,34,Configurazione posta e account,22/09/2026,3
+C000343,Alessandro,Esposito,alessandro.esposito.c000343@example.com,Roma,14/04/2026,0,0.0,0.0,193,Configurazione posta e account,16/04/2026,0
+C000344,Leonardo,Rinaldi,leonardo.rinaldi.c000344@example.com,Milano,19/09/2026,1,35.27,35.27,33,Scansione Anomalie/Vulnerabilità del dispositivo,23/09/2026,3
+C000345,Edoardo,Bianchi,edoardo.bianchi.c000345@example.com,Palermo,30/05/2026,0,0.0,0.0,126,Installazione e configurazione software,22/06/2026,0
+C000346,Ilaria,Moretti,ilaria.moretti.c000346@example.com,Firenze,02/08/2026,1,45.49,45.49,78,Installazione e configurazione software,09/08/2026,3
+C000347,Greta,Pellegrini,greta.pellegrini.c000347@example.com,Napoli,12/04/2026,1,56.59,56.59,7,Configurazione posta e account,19/10/2026,1
+C000348,Michele,Costa,michele.costa.c000348@example.com,Milano,13/10/2026,2,70.25,35.13,9,Configurazione posta e account,17/10/2026,3
+C000349,Davide,Russo,davide.russo.c000349@example.com,Roma,17/05/2026,1,14.74,14.74,11,Configurazione posta e account,15/10/2026,1
+C000350,Veronica,Rinaldi,veronica.rinaldi.c000350@example.com,Bologna,17/09/2026,3,155.25,51.75,18,Configurazione posta e account,08/10/2026,3
+C000351,Giada,Serra,giada.serra.c000351@example.com,Roma,30/03/2026,1,57.4,57.4,47,Configurazione posta e account,09/09/2026,1
+C000352,Alessandro,Gallo,alessandro.gallo.c000352@example.com,Milano,10/05/2026,1,14.77,14.77,60,Configurazione backup,27/08/2026,1
+C000353,Elisa,Esposito,elisa.esposito.c000353@example.com,Napoli,27/06/2026,0,0.0,0.0,114,Configurazione backup,04/07/2026,0
+C000354,Elena,Russo,elena.russo.c000354@example.com,Palermo,31/03/2026,0,0.0,0.0,205,Configurazione backup,04/04/2026,0
+C000355,Antonio,Neri,antonio.neri.c000355@example.com,Napoli,18/04/2026,3,79.78,26.59,10,Configurazione posta e account,16/10/2026,1
+C000356,Elisa,Bruno,elisa.bruno.c000356@example.com,Roma,20/05/2026,1,29.1,29.1,82,Installazione e configurazione software,05/08/2026,1
+C000357,Matilde,Giordano,matilde.giordano.c000357@example.com,Bologna,28/03/2026,5,332.71,66.54,23,Configurazione posta e account,03/10/2026,1
+C000358,Antonio,Costa,antonio.costa.c000358@example.com,Torino,30/06/2026,3,113.41,37.8,13,Installazione e configurazione software,13/10/2026,1
+C000359,Elena,De Luca,elena.de.luca.c000359@example.com,Palermo,06/03/2026,0,0.0,0.0,231,Scansione Anomalie/Vulnerabilità del dispositivo,09/03/2026,0
+C000360,Paolo,Leone,paolo.leone.c000360@example.com,Bologna,24/10/2026,1,69.46,69.46,0,Scansione Anomalie/Vulnerabilità del dispositivo,26/10/2026,3
+C000361,Elisa,Di Pietro,elisa.di.pietro.c000361@example.com,Torino,03/05/2026,1,43.41,43.41,33,Scansione Anomalie/Vulnerabilità del dispositivo,23/09/2026,1
+C000362,Camilla,Russo,camilla.russo.c000362@example.com,Roma,14/05/2026,0,0.0,0.0,144,Scansione Anomalie/Vulnerabilità del dispositivo,04/06/2026,0
+C000363,Anna,De Santis,anna.de.santis.c000363@example.com,Roma,03/05/2026,0,0.0,0.0,169,Configurazione posta e account,10/05/2026,0
+C000364,Martina,Giordano,martina.giordano.c000364@example.com,Firenze,15/04/2026,0,0.0,0.0,147,Installazione e configurazione software,01/06/2026,0
+C000365,Antonio,De Luca,antonio.de.luca.c000365@example.com,Bologna,08/09/2026,1,37.65,37.65,48,Scansione Anomalie/Vulnerabilità del dispositivo,08/09/2026,3
+C000366,Michele,Bianchi,michele.bianchi.c000366@example.com,Firenze,22/06/2026,10,227.75,22.78,15,Configurazione posta e account,11/10/2026,2
+C000367,Roberto,Villa,roberto.villa.c000367@example.com,Firenze,19/04/2026,0,0.0,0.0,189,Scansione Anomalie/Vulnerabilità del dispositivo,20/04/2026,0
+C000368,Antonio,Vitale,antonio.vitale.c000368@example.com,Torino,09/09/2026,4,238.42,59.61,2,Scansione Anomalie/Vulnerabilità del dispositivo,24/10/2026,3
+C000369,Gaia,Greco,gaia.greco.c000369@example.com,Bologna,22/05/2026,0,0.0,0.0,145,Configurazione posta e account,03/06/2026,0
+C000370,Giada,Testa,giada.testa.c000370@example.com,Roma,30/05/2026,0,0.0,0.0,142,Configurazione posta e account,06/06/2026,0
+C000371,Anna,Ricci,anna.ricci.c000371@example.com,Milano,05/03/2026,1,29.74,29.74,57,Configurazione backup,30/08/2026,1
+C000372,Roberto,Fontana,roberto.fontana.c000372@example.com,Milano,24/03/2026,0,0.0,0.0,212,Configurazione posta e account,28/03/2026,0
+C000373,Giulia,Fontana,giulia.fontana.c000373@example.com,Roma,14/04/2026,0,0.0,0.0,194,Scansione Anomalie/Vulnerabilità del dispositivo,15/04/2026,0
+C000374,Filippo,De Santis,filippo.de.santis.c000374@example.com,Bologna,14/04/2026,1,53.8,53.8,37,Scansione Anomalie/Vulnerabilità del dispositivo,19/09/2026,1
+C000375,Chiara,Santoro,chiara.santoro.c000375@example.com,Firenze,28/05/2026,6,488.61,81.44,32,Configurazione posta e account,24/09/2026,2
+C000376,Paolo,Romano,paolo.romano.c000376@example.com,Roma,05/03/2026,5,155.04,31.01,0,Installazione e configurazione software,26/10/2026,1
+C000377,Luca,De Santis,luca.de.santis.c000377@example.com,Torino,15/08/2026,6,168.69,28.12,2,Installazione e configurazione software,24/10/2026,3
+C000378,Gabriele,Gentile,gabriele.gentile.c000378@example.com,Milano,03/06/2026,0,0.0,0.0,138,Scansione Anomalie/Vulnerabilità del dispositivo,10/06/2026,0
+C000379,Riccardo,Ricci,riccardo.ricci.c000379@example.com,Milano,09/06/2026,2,62.59,31.3,41,Installazione e configurazione software,15/09/2026,1
+C000380,Valentina,Barbieri,valentina.barbieri.c000380@example.com,Torino,02/09/2026,1,12.96,12.96,52,Configurazione posta e account,04/09/2026,3
+C000381,Elena,Colombo,elena.colombo.c000381@example.com,Roma,09/10/2026,3,259.38,86.46,6,Installazione e configurazione software,20/10/2026,3
+C000382,Giacomo,Carbone,giacomo.carbone.c000382@example.com,Torino,22/07/2026,1,61.3,61.3,19,Configurazione backup,07/10/2026,3
+C000383,Camilla,Carbone,camilla.carbone.c000383@example.com,Milano,06/06/2026,1,14.8,14.8,38,Configurazione posta e account,18/09/2026,1
+C000384,Simone,Basile,simone.basile.c000384@example.com,Roma,29/03/2026,2,56.69,28.35,75,Installazione e configurazione software,12/08/2026,1
+C000385,Alessandro,Romano,alessandro.romano.c000385@example.com,Bologna,09/09/2026,1,30.08,30.08,42,Scansione Anomalie/Vulnerabilità del dispositivo,14/09/2026,3
+C000386,Francesca,Rizzo,francesca.rizzo.c000386@example.com,Milano,17/06/2026,2,82.69,41.35,19,Installazione e configurazione software,07/10/2026,1
+C000387,Davide,Fontana,davide.fontana.c000387@example.com,Firenze,19/03/2026,4,180.39,45.1,4,Scansione Anomalie/Vulnerabilità del dispositivo,22/10/2026,1
+C000388,Alessandro,Mancini,alessandro.mancini.c000388@example.com,Napoli,16/10/2026,1,50.74,50.74,4,Configurazione backup,22/10/2026,3
+C000389,Lorenzo,Marchetti,lorenzo.marchetti.c000389@example.com,Roma,27/04/2026,1,78.43,78.43,34,Configurazione posta e account,22/09/2026,1
+C000390,Filippo,Gentile,filippo.gentile.c000390@example.com,Firenze,16/03/2026,0,0.0,0.0,205,Scansione Anomalie/Vulnerabilità del dispositivo,04/04/2026,0
+C000391,Alessandro,Ferrari,alessandro.ferrari.c000391@example.com,Bologna,24/04/2026,2,74.61,37.31,66,Configurazione posta e account,21/08/2026,1
+C000392,Matteo,Carbone,matteo.carbone.c000392@example.com,Milano,27/09/2026,1,32.04,32.04,22,Configurazione backup,04/10/2026,3
+C000393,Michele,Giordano,michele.giordano.c000393@example.com,Roma,24/10/2026,1,73.99,73.99,1,Installazione e configurazione software,25/10/2026,3
+C000394,Luca,Valentini,luca.valentini.c000394@example.com,Torino,24/04/2026,16,944.16,59.01,6,Installazione e configurazione software,20/10/2026,2
+C000395,Matteo,Ferrari,matteo.ferrari.c000395@example.com,Palermo,06/06/2026,0,0.0,0.0,137,Scansione Anomalie/Vulnerabilità del dispositivo,11/06/2026,0
+C000396,Andrea,Neri,andrea.neri.c000396@example.com,Torino,12/03/2026,2,145.68,72.84,55,Configurazione posta e account,01/09/2026,1
+C000397,Marco,Moretti,marco.moretti.c000397@example.com,Firenze,04/08/2026,1,26.97,26.97,83,Configurazione posta e account,04/08/2026,3
+C000398,Simone,Rossi,simone.rossi.c000398@example.com,Roma,18/04/2026,4,291.25,72.81,6,Installazione e configurazione software,20/10/2026,1
+C000399,Giada,Pellegrini,giada.pellegrini.c000399@example.com,Roma,23/10/2026,1,32.81,32.81,1,Scansione Anomalie/Vulnerabilità del dispositivo,25/10/2026,3
+C000400,Matteo,Esposito,matteo.esposito.c000400@example.com,Torino,10/04/2026,0,0.0,0.0,108,Configurazione posta e account,10/07/2026,0
+C000401,Martina,De Santis,martina.de.santis.c000401@example.com,Milano,25/03/2026,0,0.0,0.0,212,Installazione e configurazione software,28/03/2026,0
+C000402,Alessandra,Bruno,alessandra.bruno.c000402@example.com,Firenze,22/10/2026,1,48.64,48.64,1,Installazione e configurazione software,25/10/2026,3
+C000403,Greta,Bianchi,greta.bianchi.c000403@example.com,Bologna,23/04/2026,10,1017.48,101.75,2,Scansione Anomalie/Vulnerabilità del dispositivo,24/10/2026,2
+C000404,Sara,Neri,sara.neri.c000404@example.com,Torino,20/08/2026,3,139.7,46.57,24,Scansione Anomalie/Vulnerabilità del dispositivo,02/10/2026,3
+C000405,Federico,Di Pietro,federico.di.pietro.c000405@example.com,Torino,19/09/2026,1,70.57,70.57,33,Scansione Anomalie/Vulnerabilità del dispositivo,23/09/2026,3
+C000406,Davide,D'Amico,davide.d.amico.c000406@example.com,Napoli,18/05/2026,0,0.0,0.0,107,Configurazione backup,11/07/2026,0
+C000407,Vittoria,Villa,vittoria.villa.c000407@example.com,Milano,15/04/2026,1,35.35,35.35,5,Installazione e configurazione software,21/10/2026,1
+C000408,Giada,D'Amico,giada.d.amico.c000408@example.com,Roma,09/04/2026,0,0.0,0.0,168,Configurazione posta e account,11/05/2026,0
+C000409,Francesca,Bruno,francesca.bruno.c000409@example.com,Bologna,03/10/2026,1,21.71,21.71,21,Installazione e configurazione software,05/10/2026,3
+C000410,Francesco,Bianchi,francesco.bianchi.c000410@example.com,Napoli,13/09/2026,1,13.03,13.03,36,Configurazione backup,20/09/2026,3
+C000411,Alessandro,Longo,alessandro.longo.c000411@example.com,Bologna,06/10/2026,1,38.47,38.47,13,Scansione Anomalie/Vulnerabilità del dispositivo,13/10/2026,3
+C000412,Elena,Pellegrini,elena.pellegrini.c000412@example.com,Roma,01/03/2026,4,132.95,33.24,24,Installazione e configurazione software,02/10/2026,1
+C000413,Francesco,Costa,francesco.costa.c000413@example.com,Milano,10/04/2026,0,0.0,0.0,196,Configurazione posta e account,13/04/2026,0
+C000414,Antonio,Santoro,antonio.santoro.c000414@example.com,Roma,10/06/2026,0,0.0,0.0,135,Configurazione posta e account,13/06/2026,0
+C000415,Laura,Lombardi,laura.lombardi.c000415@example.com,Roma,14/09/2026,2,140.28,70.14,33,Configurazione backup,23/09/2026,3
+C000416,Matilde,Mancini,matilde.mancini.c000416@example.com,Roma,25/06/2026,1,43.01,43.01,20,Scansione Anomalie/Vulnerabilità del dispositivo,06/10/2026,1
+C000417,Beatrice,De Santis,beatrice.de.santis.c000417@example.com,Roma,29/05/2026,1,49.06,49.06,85,Scansione Anomalie/Vulnerabilità del dispositivo,02/08/2026,1
+C000418,Gabriele,Esposito,gabriele.esposito.c000418@example.com,Roma,07/05/2026,14,514.22,36.73,3,Installazione e configurazione software,23/10/2026,2
+C000419,Anna,Bruno,anna.bruno.c000419@example.com,Napoli,16/04/2026,1,22.12,22.12,16,Configurazione backup,10/10/2026,1
+C000420,Luca,Rinaldi,luca.rinaldi.c000420@example.com,Roma,06/10/2026,1,16.13,16.13,19,Installazione e configurazione software,07/10/2026,3
+C000421,Lorenzo,Marchetti,lorenzo.marchetti.c000421@example.com,Roma,04/06/2026,3,99.65,33.22,5,Configurazione backup,21/10/2026,1
+C000422,Camilla,Bruno,camilla.bruno.c000422@example.com,Firenze,05/04/2026,2,35.3,17.65,26,Scansione Anomalie/Vulnerabilità del dispositivo,30/09/2026,1
+C000423,Alessandra,Russo,alessandra.russo.c000423@example.com,Roma,01/03/2026,0,0.0,0.0,117,Configurazione posta e account,01/07/2026,0
+C000424,Giulia,Mancini,giulia.mancini.c000424@example.com,Roma,09/07/2026,0,0.0,0.0,108,Scansione Anomalie/Vulnerabilità del dispositivo,10/07/2026,0
+C000425,Beatrice,Martini,beatrice.martini.c000425@example.com,Napoli,30/07/2026,8,210.08,26.26,7,Configurazione posta e account,19/10/2026,2
+C000426,Giulia,Mancini,giulia.mancini.c000426@example.com,Napoli,28/04/2026,0,0.0,0.0,180,Configurazione backup,29/04/2026,0
+C000427,Matilde,Basile,matilde.basile.c000427@example.com,Firenze,22/05/2026,0,0.0,0.0,154,Scansione Anomalie/Vulnerabilità del dispositivo,25/05/2026,0
+C000428,Matteo,Fontana,matteo.fontana.c000428@example.com,Torino,04/05/2026,2,39.48,19.74,50,Installazione e configurazione software,06/09/2026,1
+C000429,Francesco,Di Pietro,francesco.di.pietro.c000429@example.com,Milano,30/04/2026,0,0.0,0.0,172,Configurazione backup,07/05/2026,0
+C000430,Ilaria,Parisi,ilaria.parisi.c000430@example.com,Torino,05/09/2026,1,33.71,33.71,45,Scansione Anomalie/Vulnerabilità del dispositivo,11/09/2026,3
+C000431,Davide,Rizzo,davide.rizzo.c000431@example.com,Roma,03/04/2026,0,0.0,0.0,199,Configurazione backup,10/04/2026,0
+C000432,Giacomo,Marino,giacomo.marino.c000432@example.com,Milano,22/03/2026,0,0.0,0.0,163,Installazione e configurazione software,16/05/2026,0
+C000433,Laura,Parisi,laura.parisi.c000433@example.com,Roma,09/05/2026,2,42.11,21.06,60,Configurazione backup,27/08/2026,1
+C000434,Gabriele,Bruno,gabriele.bruno.c000434@example.com,Roma,23/05/2026,2,422.1,211.05,1,Configurazione backup,25/10/2026,1
+C000435,Matilde,Costa,matilde.costa.c000435@example.com,Roma,08/09/2026,5,157.6,31.52,14,Installazione e configurazione software,12/10/2026,3
+C000436,Martina,Palmieri,martina.palmieri.c000436@example.com,Napoli,16/10/2026,1,58.67,58.67,8,Scansione Anomalie/Vulnerabilità del dispositivo,18/10/2026,3
+C000437,Michele,Costa,michele.costa.c000437@example.com,Napoli,06/07/2026,5,180.48,36.1,8,Configurazione backup,18/10/2026,1
+C000438,Francesca,Greco,francesca.greco.c000438@example.com,Napoli,20/05/2026,0,0.0,0.0,158,Configurazione backup,21/05/2026,0
+C000439,Alessandro,Carbone,alessandro.carbone.c000439@example.com,Firenze,06/03/2026,5,198.66,39.73,16,Scansione Anomalie/Vulnerabilità del dispositivo,10/10/2026,1
+C000440,Veronica,Fiore,veronica.fiore.c000440@example.com,Milano,26/08/2026,7,273.93,39.13,4,Scansione Anomalie/Vulnerabilità del dispositivo,22/10/2026,2
+C000441,Emma,Serra,emma.serra.c000441@example.com,Roma,16/07/2026,2,42.04,21.02,9,Installazione e configurazione software,17/10/2026,3
+C000442,Elena,Bruno,elena.bruno.c000442@example.com,Napoli,21/08/2026,1,71.25,71.25,63,Installazione e configurazione software,24/08/2026,3
+C000443,Giada,Palmieri,giada.palmieri.c000443@example.com,Milano,08/05/2026,3,114.99,38.33,33,Installazione e configurazione software,23/09/2026,1
+C000444,Matilde,Russo,matilde.russo.c000444@example.com,Napoli,27/04/2026,3,57.23,19.08,43,Configurazione posta e account,13/09/2026,1
+C000445,Laura,Serra,laura.serra.c000445@example.com,Roma,24/06/2026,0,0.0,0.0,121,Configurazione backup,27/06/2026,0
+C000446,Federico,Gallo,federico.gallo.c000446@example.com,Torino,27/03/2026,0,0.0,0.0,150,Configurazione backup,29/05/2026,0
+C000447,Chiara,Esposito,chiara.esposito.c000447@example.com,Torino,20/10/2026,1,15.88,15.88,2,Configurazione posta e account,24/10/2026,3
+C000448,Anna,Parisi,anna.parisi.c000448@example.com,Milano,05/06/2026,0,0.0,0.0,139,Installazione e configurazione software,09/06/2026,0
+C000449,Sofia,Valentini,sofia.valentini.c000449@example.com,Roma,02/09/2026,3,151.26,50.42,9,Configurazione backup,17/10/2026,3
+C000450,Laura,Longo,laura.longo.c000450@example.com,Napoli,16/05/2026,0,0.0,0.0,110,Configurazione posta e account,08/07/2026,0
+C000451,Sara,Russo,sara.russo.c000451@example.com,Milano,26/05/2026,3,93.61,31.2,11,Installazione e configurazione software,15/10/2026,1
+C000452,Elisa,Valentini,elisa.valentini.c000452@example.com,Milano,10/05/2026,0,0.0,0.0,163,Configurazione backup,16/05/2026,0
+C000453,Francesco,Esposito,francesco.esposito.c000453@example.com,Bologna,14/08/2026,2,69.0,34.5,72,Configurazione posta e account,15/08/2026,3
+C000454,Laura,Bruno,laura.bruno.c000454@example.com,Milano,16/07/2026,4,180.85,45.21,15,Configurazione backup,11/10/2026,3
+C000455,Camilla,Rossi,camilla.rossi.c000455@example.com,Torino,26/07/2026,2,150.73,75.37,24,Configurazione backup,02/10/2026,3
+C000456,Andrea,Fiore,andrea.fiore.c000456@example.com,Torino,29/05/2026,0,0.0,0.0,131,Configurazione posta e account,17/06/2026,0
+C000457,Marco,Moretti,marco.moretti.c000457@example.com,Palermo,15/04/2026,3,127.33,42.44,12,Scansione Anomalie/Vulnerabilità del dispositivo,14/10/2026,1
+C000458,Leonardo,D'Angelo,leonardo.d.angelo.c000458@example.com,Roma,22/07/2026,1,22.85,22.85,37,Installazione e configurazione software,19/09/2026,3
+C000459,Filippo,Leone,filippo.leone.c000459@example.com,Napoli,07/05/2026,0,0.0,0.0,121,Scansione Anomalie/Vulnerabilità del dispositivo,27/06/2026,0
+C000460,Filippo,Rizzo,filippo.rizzo.c000460@example.com,Torino,02/08/2026,5,94.05,18.81,15,Installazione e configurazione software,11/10/2026,3
+C000461,Ilaria,Vitale,ilaria.vitale.c000461@example.com,Bologna,01/05/2026,5,109.34,21.87,9,Scansione Anomalie/Vulnerabilità del dispositivo,17/10/2026,1
+C000462,Ilaria,Romano,ilaria.romano.c000462@example.com,Torino,02/09/2026,1,40.46,40.46,51,Configurazione backup,05/09/2026,3
+C000463,Giacomo,Ferraro,giacomo.ferraro.c000463@example.com,Milano,10/08/2026,1,37.34,37.34,72,Configurazione posta e account,15/08/2026,3
+C000464,Giulia,Palmieri,giulia.palmieri.c000464@example.com,Bologna,20/07/2026,0,0.0,0.0,92,Configurazione posta e account,26/07/2026,0
+C000465,Nicola,Martini,nicola.martini.c000465@example.com,Napoli,23/06/2026,2,67.91,33.96,17,Scansione Anomalie/Vulnerabilità del dispositivo,09/10/2026,1
+C000466,Greta,De Luca,greta.de.luca.c000466@example.com,Roma,15/06/2026,4,129.97,32.49,2,Configurazione posta e account,24/10/2026,1
+C000467,Gaia,Russo,gaia.russo.c000467@example.com,Napoli,06/04/2026,1,23.73,23.73,44,Installazione e configurazione software,12/09/2026,1
+C000468,Elisa,Rizzo,elisa.rizzo.c000468@example.com,Bologna,06/07/2026,0,0.0,0.0,112,Configurazione backup,06/07/2026,0
+C000469,Laura,Valentini,laura.valentini.c000469@example.com,Milano,12/08/2026,1,12.46,12.46,72,Configurazione posta e account,15/08/2026,3
+C000470,Luca,Marino,luca.marino.c000470@example.com,Roma,30/08/2026,2,86.29,43.15,39,Configurazione posta e account,17/09/2026,3
+C000471,Francesca,Conti,francesca.conti.c000471@example.com,Torino,07/08/2026,2,81.4,40.7,75,Configurazione posta e account,12/08/2026,3
+C000472,Federica,Santoro,federica.santoro.c000472@example.com,Milano,10/09/2026,7,550.93,78.7,13,Installazione e configurazione software,13/10/2026,2
+C000473,Leonardo,Santoro,leonardo.santoro.c000473@example.com,Napoli,30/04/2026,0,0.0,0.0,133,Installazione e configurazione software,15/06/2026,0
+C000474,Francesco,D'Amico,francesco.d.amico.c000474@example.com,Firenze,04/09/2026,1,27.29,27.29,51,Installazione e configurazione software,05/09/2026,3
+C000475,Davide,Ricci,davide.ricci.c000475@example.com,Napoli,22/09/2026,4,144.12,36.03,12,Configurazione posta e account,14/10/2026,3
+C000476,Nicola,Santoro,nicola.santoro.c000476@example.com,Firenze,23/06/2026,0,0.0,0.0,120,Configurazione backup,28/06/2026,0
+C000477,Simone,Marchetti,simone.marchetti.c000477@example.com,Milano,01/09/2026,2,74.58,37.29,27,Configurazione backup,29/09/2026,3
+C000478,Gaia,Gallo,gaia.gallo.c000478@example.com,Roma,02/10/2026,2,92.55,46.28,12,Scansione Anomalie/Vulnerabilità del dispositivo,14/10/2026,3
+C000479,Filippo,Moretti,filippo.moretti.c000479@example.com,Palermo,31/08/2026,2,54.13,27.07,21,Configurazione posta e account,05/10/2026,3
+C000480,Leonardo,Marino,leonardo.marino.c000480@example.com,Milano,13/04/2026,5,278.19,55.64,1,Installazione e configurazione software,25/10/2026,1
+C000481,Ilaria,Martini,ilaria.martini.c000481@example.com,Torino,29/03/2026,1,53.98,53.98,75,Configurazione posta e account,12/08/2026,1
+C000482,Chiara,Barbieri,chiara.barbieri.c000482@example.com,Milano,03/05/2026,0,0.0,0.0,172,Configurazione posta e account,07/05/2026,0
+C000483,Alessandra,Villa,alessandra.villa.c000483@example.com,Milano,22/07/2026,1,33.26,33.26,82,Configurazione backup,05/08/2026,3
+C000484,Leonardo,De Luca,leonardo.de.luca.c000484@example.com,Roma,30/09/2026,1,30.56,30.56,21,Installazione e configurazione software,05/10/2026,3
+C000485,Pietro,Rinaldi,pietro.rinaldi.c000485@example.com,Milano,28/06/2026,0,0.0,0.0,114,Installazione e configurazione software,04/07/2026,0
+C000486,Marco,Giordano,marco.giordano.c000486@example.com,Napoli,18/06/2026,0,0.0,0.0,102,Configurazione posta e account,16/07/2026,0
+C000487,Valentina,Ferraro,valentina.ferraro.c000487@example.com,Roma,30/04/2026,1,26.23,26.23,42,Installazione e configurazione software,14/09/2026,1
+C000488,Francesca,Romano,francesca.romano.c000488@example.com,Napoli,25/10/2026,1,12.86,12.86,1,Configurazione posta e account,25/10/2026,3
+C000489,Giulia,Marino,giulia.marino.c000489@example.com,Firenze,05/09/2026,1,31.97,31.97,49,Configurazione posta e account,07/09/2026,3
+C000490,Davide,Gentile,davide.gentile.c000490@example.com,Roma,20/09/2026,3,89.66,29.89,12,Installazione e configurazione software,14/10/2026,3
+C000491,Federica,Fiore,federica.fiore.c000491@example.com,Firenze,18/06/2026,1,26.74,26.74,27,Scansione Anomalie/Vulnerabilità del dispositivo,29/09/2026,1
+C000492,Michele,Di Pietro,michele.di.pietro.c000492@example.com,Roma,13/10/2026,1,9.09,9.09,6,Installazione e configurazione software,20/10/2026,3
+C000493,Simone,Fontana,simone.fontana.c000493@example.com,Roma,19/10/2026,1,135.98,135.98,5,Scansione Anomalie/Vulnerabilità del dispositivo,21/10/2026,3
+C000494,Sofia,Pellegrini,sofia.pellegrini.c000494@example.com,Torino,28/07/2026,3,111.77,37.26,41,Installazione e configurazione software,15/09/2026,3
+C000495,Greta,Ferraro,greta.ferraro.c000495@example.com,Firenze,22/10/2026,1,43.41,43.41,1,Configurazione posta e account,25/10/2026,3
+C000496,Valentina,Conti,valentina.conti.c000496@example.com,Roma,24/04/2026,0,0.0,0.0,174,Installazione e configurazione software,05/05/2026,0
+C000497,Martina,Barbieri,martina.barbieri.c000497@example.com,Bologna,06/07/2026,0,0.0,0.0,107,Scansione Anomalie/Vulnerabilità del dispositivo,11/07/2026,0
+C000498,Marco,Russo,marco.russo.c000498@example.com,Napoli,27/06/2026,1,37.98,37.98,4,Installazione e configurazione software,22/10/2026,1
+C000499,Gabriele,Pellegrini,gabriele.pellegrini.c000499@example.com,Milano,20/10/2026,1,45.74,45.74,2,Scansione Anomalie/Vulnerabilità del dispositivo,24/10/2026,3
+C000500,Marco,Basile,marco.basile.c000500@example.com,Roma,16/08/2026,3,120.32,40.11,19,Configurazione backup,07/10/2026,3
+C000501,Matteo,Rinaldi,matteo.rinaldi.c000501@example.com,Roma,27/07/2026,10,340.14,34.01,10,Scansione Anomalie/Vulnerabilità del dispositivo,16/10/2026,2
+C000502,Matilde,Palmieri,matilde.palmieri.c000502@example.com,Roma,30/08/2026,3,144.63,48.21,15,Configurazione posta e account,11/10/2026,3
+C000503,Nicola,Testa,nicola.testa.c000503@example.com,Milano,03/07/2026,0,0.0,0.0,110,Scansione Anomalie/Vulnerabilità del dispositivo,08/07/2026,0
+C000504,Alessandra,Serra,alessandra.serra.c000504@example.com,Roma,15/05/2026,0,0.0,0.0,152,Configurazione backup,27/05/2026,0
+C000505,Ilaria,D'Amico,ilaria.d.amico.c000505@example.com,Roma,20/10/2026,1,23.67,23.67,4,Configurazione backup,22/10/2026,3
+C000506,Nicola,Esposito,nicola.esposito.c000506@example.com,Napoli,19/04/2026,0,0.0,0.0,187,Configurazione backup,22/04/2026,0
+C000507,Sara,Ricci,sara.ricci.c000507@example.com,Firenze,10/03/2026,0,0.0,0.0,228,Installazione e configurazione software,12/03/2026,0
+C000508,Luca,Russo,luca.russo.c000508@example.com,Napoli,17/07/2026,1,28.56,28.56,63,Configurazione posta e account,24/08/2026,3
+C000509,Elena,Neri,elena.neri.c000509@example.com,Bologna,25/06/2026,2,150.54,75.27,46,Scansione Anomalie/Vulnerabilità del dispositivo,10/09/2026,1
+C000510,Matteo,D'Amico,matteo.d.amico.c000510@example.com,Torino,19/04/2026,4,243.25,60.81,25,Configurazione posta e account,01/10/2026,1
+C000511,Greta,Greco,greta.greco.c000511@example.com,Roma,06/08/2026,1,32.11,32.11,80,Configurazione backup,07/08/2026,3
+C000512,Michele,Basile,michele.basile.c000512@example.com,Roma,26/04/2026,0,0.0,0.0,179,Installazione e configurazione software,30/04/2026,0
+C000513,Giada,Conti,giada.conti.c000513@example.com,Roma,25/03/2026,3,89.36,29.79,19,Configurazione backup,07/10/2026,1
+C000514,Sara,Vitale,sara.vitale.c000514@example.com,Bologna,02/06/2026,14,469.77,33.56,17,Configurazione posta e account,09/10/2026,2
+C000515,Veronica,Romano,veronica.romano.c000515@example.com,Napoli,06/07/2026,4,89.2,22.3,14,Configurazione posta e account,12/10/2026,1
+C000516,Leonardo,Fontana,leonardo.fontana.c000516@example.com,Milano,22/06/2026,2,50.43,25.22,32,Configurazione posta e account,24/09/2026,1
+C000517,Sara,Rinaldi,sara.rinaldi.c000517@example.com,Napoli,18/05/2026,9,461.49,51.28,25,Installazione e configurazione software,01/10/2026,2
+C000518,Alice,D'Angelo,alice.d.angelo.c000518@example.com,Roma,16/08/2026,1,24.09,24.09,68,Installazione e configurazione software,19/08/2026,3
+C000519,Sara,Marino,sara.marino.c000519@example.com,Bologna,01/09/2026,2,81.0,40.5,4,Configurazione posta e account,22/10/2026,3
+C000520,Roberto,Conti,roberto.conti.c000520@example.com,Torino,23/09/2026,1,61.55,61.55,26,Installazione e configurazione software,30/09/2026,3
+C000521,Federica,Colombo,federica.colombo.c000521@example.com,Roma,15/03/2026,3,209.63,69.88,1,Scansione Anomalie/Vulnerabilità del dispositivo,25/10/2026,1
+C000522,Francesco,Vitale,francesco.vitale.c000522@example.com,Napoli,22/09/2026,2,25.04,12.52,23,Configurazione posta e account,03/10/2026,3
+C000523,Federica,Testa,federica.testa.c000523@example.com,Torino,03/05/2026,3,116.09,38.7,35,Installazione e configurazione software,21/09/2026,1
+C000524,Alessandro,Pellegrini,alessandro.pellegrini.c000524@example.com,Milano,10/03/2026,0,0.0,0.0,158,Configurazione posta e account,21/05/2026,0
+C000525,Veronica,Di Pietro,veronica.di.pietro.c000525@example.com,Roma,13/05/2026,0,0.0,0.0,125,Installazione e configurazione software,23/06/2026,0
+C000526,Davide,Serra,davide.serra.c000526@example.com,Roma,23/07/2026,1,17.68,17.68,46,Installazione e configurazione software,10/09/2026,3
+C000527,Pietro,De Santis,pietro.de.santis.c000527@example.com,Napoli,09/04/2026,2,179.19,89.6,23,Configurazione backup,03/10/2026,1
+C000528,Federico,Gentile,federico.gentile.c000528@example.com,Torino,10/05/2026,0,0.0,0.0,164,Configurazione backup,15/05/2026,0
+C000529,Federica,Fontana,federica.fontana.c000529@example.com,Roma,25/09/2026,1,32.71,32.71,25,Installazione e configurazione software,01/10/2026,3
+C000530,Luca,Marchetti,luca.marchetti.c000530@example.com,Roma,26/04/2026,6,656.51,109.42,2,Configurazione backup,24/10/2026,2
+C000531,Francesco,Neri,francesco.neri.c000531@example.com,Roma,26/10/2026,1,26.71,26.71,0,Configurazione backup,26/10/2026,3
+C000532,Vittoria,De Luca,vittoria.de.luca.c000532@example.com,Napoli,04/03/2026,0,0.0,0.0,152,Scansione Anomalie/Vulnerabilità del dispositivo,27/05/2026,0
+C000533,Federica,Gentile,federica.gentile.c000533@example.com,Firenze,13/06/2026,1,23.73,23.73,23,Scansione Anomalie/Vulnerabilità del dispositivo,03/10/2026,1
+C000534,Martina,Parisi,martina.parisi.c000534@example.com,Bologna,28/02/2026,0,0.0,0.0,105,Scansione Anomalie/Vulnerabilità del dispositivo,13/07/2026,0
+C000535,Laura,Marchetti,laura.marchetti.c000535@example.com,Milano,15/08/2026,2,67.3,33.65,30,Configurazione backup,26/09/2026,3
+C000536,Marco,Valentini,marco.valentini.c000536@example.com,Torino,23/04/2026,1,49.13,49.13,19,Configurazione posta e account,07/10/2026,1
+C000537,Elisa,Giordano,elisa.giordano.c000537@example.com,Napoli,21/09/2026,2,90.92,45.46,9,Scansione Anomalie/Vulnerabilità del dispositivo,17/10/2026,3
+C000538,Valentina,Pellegrini,valentina.pellegrini.c000538@example.com,Napoli,22/05/2026,0,0.0,0.0,152,Installazione e configurazione software,27/05/2026,0
+C000539,Greta,Rinaldi,greta.rinaldi.c000539@example.com,Milano,16/09/2026,1,13.43,13.43,38,Configurazione posta e account,18/09/2026,3
+C000540,Elena,Santoro,elena.santoro.c000540@example.com,Torino,25/06/2026,0,0.0,0.0,120,Installazione e configurazione software,28/06/2026,0
+C000541,Leonardo,Giordano,leonardo.giordano.c000541@example.com,Napoli,21/06/2026,9,452.92,50.32,20,Installazione e configurazione software,06/10/2026,2
+C000542,Federica,Ferrari,federica.ferrari.c000542@example.com,Roma,20/07/2026,0,0.0,0.0,95,Installazione e configurazione software,23/07/2026,0
+C000543,Alessandro,Bianchi,alessandro.bianchi.c000543@example.com,Bologna,06/06/2026,13,259.22,19.94,15,Configurazione posta e account,11/10/2026,2
+C000544,Vittoria,Moretti,vittoria.moretti.c000544@example.com,Firenze,07/08/2026,2,42.15,21.08,45,Configurazione posta e account,11/09/2026,3
+C000545,Giada,Serra,giada.serra.c000545@example.com,Torino,22/06/2026,11,647.09,58.83,7,Scansione Anomalie/Vulnerabilità del dispositivo,19/10/2026,2
+C000546,Federica,Serra,federica.serra.c000546@example.com,Roma,11/04/2026,2,39.32,19.66,0,Installazione e configurazione software,26/10/2026,1
+C000547,Alessandra,Gallo,alessandra.gallo.c000547@example.com,Milano,03/09/2026,2,54.91,27.46,24,Scansione Anomalie/Vulnerabilità del dispositivo,02/10/2026,3
+C000548,Alessandra,De Santis,alessandra.de.santis.c000548@example.com,Roma,17/04/2026,0,0.0,0.0,191,Scansione Anomalie/Vulnerabilità del dispositivo,18/04/2026,0
+C000549,Davide,Fontana,davide.fontana.c000549@example.com,Roma,19/07/2026,1,25.68,25.68,7,Installazione e configurazione software,19/10/2026,3
+C000550,Marco,Rizzo,marco.rizzo.c000550@example.com,Torino,05/06/2026,1,106.45,106.45,67,Configurazione backup,20/08/2026,1
+C000551,Francesca,Giordano,francesca.giordano.c000551@example.com,Bologna,20/06/2026,0,0.0,0.0,122,Scansione Anomalie/Vulnerabilità del dispositivo,26/06/2026,0
+C000552,Alice,Testa,alice.testa.c000552@example.com,Torino,24/06/2026,0,0.0,0.0,102,Configurazione posta e account,16/07/2026,0
+C000553,Luca,Pellegrini,luca.pellegrini.c000553@example.com,Torino,10/06/2026,1,75.49,75.49,42,Configurazione backup,14/09/2026,1
+C000554,Sara,Villa,sara.villa.c000554@example.com,Milano,11/05/2026,1,32.89,32.89,61,Installazione e configurazione software,26/08/2026,1
+C000555,Camilla,Rizzo,camilla.rizzo.c000555@example.com,Bologna,30/08/2026,2,42.44,21.22,31,Configurazione backup,25/09/2026,3
+C000556,Gabriele,Villa,gabriele.villa.c000556@example.com,Napoli,09/08/2026,8,227.6,28.45,26,Installazione e configurazione software,30/09/2026,2
+C000557,Matilde,Bianchi,matilde.bianchi.c000557@example.com,Napoli,13/04/2026,0,0.0,0.0,192,Installazione e configurazione software,17/04/2026,0
+C000558,Lorenzo,Parisi,lorenzo.parisi.c000558@example.com,Napoli,31/05/2026,3,174.17,58.06,10,Scansione Anomalie/Vulnerabilità del dispositivo,16/10/2026,1
+C000559,Michele,Romano,michele.romano.c000559@example.com,Bologna,13/07/2026,4,212.66,53.17,19,Configurazione posta e account,07/10/2026,3
+C000560,Chiara,Testa,chiara.testa.c000560@example.com,Torino,24/09/2026,5,566.92,113.38,7,Configurazione backup,19/10/2026,3
+C000561,Anna,Villa,anna.villa.c000561@example.com,Napoli,18/03/2026,0,0.0,0.0,182,Installazione e configurazione software,27/04/2026,0
+C000562,Riccardo,D'Amico,riccardo.d.amico.c000562@example.com,Milano,01/03/2026,0,0.0,0.0,238,Installazione e configurazione software,02/03/2026,0
+C000563,Matteo,Neri,matteo.neri.c000563@example.com,Milano,09/03/2026,0,0.0,0.0,143,Configurazione backup,05/06/2026,0
+C000564,Lorenzo,De Luca,lorenzo.de.luca.c000564@example.com,Roma,15/06/2026,2,36.34,18.17,7,Configurazione posta e account,19/10/2026,1
+C000565,Beatrice,Ricci,beatrice.ricci.c000565@example.com,Milano,01/06/2026,0,0.0,0.0,142,Installazione e configurazione software,06/06/2026,0
+C000566,Antonio,Palmieri,antonio.palmieri.c000566@example.com,Torino,20/05/2026,0,0.0,0.0,136,Configurazione posta e account,12/06/2026,0
+C000567,Nicola,Gentile,nicola.gentile.c000567@example.com,Roma,17/03/2026,3,55.01,18.34,6,Configurazione posta e account,20/10/2026,1
+C000568,Sara,Romano,sara.romano.c000568@example.com,Firenze,23/09/2026,2,43.26,21.63,23,Configurazione backup,03/10/2026,3
+C000569,Sara,Fiore,sara.fiore.c000569@example.com,Milano,15/06/2026,0,0.0,0.0,133,Scansione Anomalie/Vulnerabilità del dispositivo,15/06/2026,0
+C000570,Antonio,Palmieri,antonio.palmieri.c000570@example.com,Bologna,02/06/2026,3,228.3,76.1,8,Installazione e configurazione software,18/10/2026,1
+C000571,Emma,Longo,emma.longo.c000571@example.com,Napoli,02/03/2026,0,0.0,0.0,238,Configurazione backup,02/03/2026,0
+C000572,Veronica,Conti,veronica.conti.c000572@example.com,Palermo,09/03/2026,0,0.0,0.0,226,Installazione e configurazione software,14/03/2026,0
+C000573,Paolo,D'Angelo,paolo.d.angelo.c000573@example.com,Torino,16/05/2026,2,132.62,66.31,4,Configurazione backup,22/10/2026,1
+C000574,Marco,Conti,marco.conti.c000574@example.com,Milano,14/04/2026,6,132.92,22.15,14,Configurazione backup,12/10/2026,1
+C000575,Francesca,Basile,francesca.basile.c000575@example.com,Milano,25/03/2026,0,0.0,0.0,214,Configurazione posta e account,26/03/2026,0
+C000576,Paolo,Neri,paolo.neri.c000576@example.com,Roma,02/05/2026,4,103.84,25.96,15,Installazione e configurazione software,11/10/2026,1
+C000577,Giovanni,Bianchi,giovanni.bianchi.c000577@example.com,Bologna,20/10/2026,1,12.26,12.26,4,Installazione e configurazione software,22/10/2026,3
+C000578,Andrea,Greco,andrea.greco.c000578@example.com,Roma,18/09/2026,1,21.29,21.29,33,Configurazione posta e account,23/09/2026,3
+C000579,Elisa,Serra,elisa.serra.c000579@example.com,Napoli,05/08/2026,2,224.98,112.49,70,Installazione e configurazione software,17/08/2026,3
+C000580,Chiara,Esposito,chiara.esposito.c000580@example.com,Roma,22/05/2026,0,0.0,0.0,154,Installazione e configurazione software,25/05/2026,0
+C000581,Vittoria,Esposito,vittoria.esposito.c000581@example.com,Torino,09/07/2026,0,0.0,0.0,105,Installazione e configurazione software,13/07/2026,0
+C000582,Antonio,Di Pietro,antonio.di.pietro.c000582@example.com,Milano,26/05/2026,1,48.13,48.13,11,Installazione e configurazione software,15/10/2026,1
+C000583,Federico,Gallo,federico.gallo.c000583@example.com,Milano,16/08/2026,1,25.2,25.2,71,Installazione e configurazione software,16/08/2026,3
+C000584,Ilaria,Carbone,ilaria.carbone.c000584@example.com,Napoli,06/03/2026,1,63.82,63.82,84,Installazione e configurazione software,03/08/2026,1
+C000585,Greta,Testa,greta.testa.c000585@example.com,Firenze,13/04/2026,0,0.0,0.0,138,Scansione Anomalie/Vulnerabilità del dispositivo,10/06/2026,0
+C000586,Giulio,Marino,giulio.marino.c000586@example.com,Roma,05/03/2026,0,0.0,0.0,229,Configurazione backup,11/03/2026,0
+C000587,Alessandra,Rinaldi,alessandra.rinaldi.c000587@example.com,Roma,07/04/2026,0,0.0,0.0,185,Configurazione posta e account,24/04/2026,0
+C000588,Marco,Longo,marco.longo.c000588@example.com,Napoli,10/03/2026,0,0.0,0.0,121,Installazione e configurazione software,27/06/2026,0
+C000589,Simone,Bruno,simone.bruno.c000589@example.com,Torino,23/07/2026,9,1021.99,113.55,20,Installazione e configurazione software,06/10/2026,2
+C000590,Alessandra,Fontana,alessandra.fontana.c000590@example.com,Milano,09/08/2026,6,231.37,38.56,2,Scansione Anomalie/Vulnerabilità del dispositivo,24/10/2026,3
+C000591,Riccardo,Leone,riccardo.leone.c000591@example.com,Palermo,14/05/2026,1,25.43,25.43,67,Installazione e configurazione software,20/08/2026,1
+C000592,Lorenzo,Basile,lorenzo.basile.c000592@example.com,Torino,19/04/2026,0,0.0,0.0,188,Configurazione backup,21/04/2026,0
+C000593,Emma,Serra,emma.serra.c000593@example.com,Napoli,07/03/2026,0,0.0,0.0,233,Scansione Anomalie/Vulnerabilità del dispositivo,07/03/2026,0
+C000594,Davide,Rinaldi,davide.rinaldi.c000594@example.com,Firenze,15/10/2026,1,33.51,33.51,9,Installazione e configurazione software,17/10/2026,3
+C000595,Greta,Russo,greta.russo.c000595@example.com,Roma,10/03/2026,3,111.49,37.16,4,Configurazione posta e account,22/10/2026,1
+C000596,Andrea,Marchetti,andrea.marchetti.c000596@example.com,Milano,12/09/2026,2,39.12,19.56,6,Configurazione posta e account,20/10/2026,3
+C000597,Vittoria,Conti,vittoria.conti.c000597@example.com,Torino,19/03/2026,0,0.0,0.0,152,Scansione Anomalie/Vulnerabilità del dispositivo,27/05/2026,0
+C000598,Federica,Bruno,federica.bruno.c000598@example.com,Napoli,26/06/2026,2,130.26,65.13,21,Configurazione backup,05/10/2026,1
+C000599,Luca,Bruno,luca.bruno.c000599@example.com,Roma,13/04/2026,0,0.0,0.0,132,Installazione e configurazione software,16/06/2026,0
+C000600,Emma,Fontana,emma.fontana.c000600@example.com,Napoli,18/08/2026,1,42.61,42.61,64,Installazione e configurazione software,23/08/2026,3

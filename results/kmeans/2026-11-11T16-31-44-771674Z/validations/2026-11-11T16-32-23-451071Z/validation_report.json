@@ -1,0 +1,70 @@
+{
+  "training_dir": "results/kmeans/2026-11-11T16-31-44-771674Z",
+  "dataset_sha256_verificato": true,
+  "preprocessing_riprodotto": true,
+  "assegnazioni_modelli_verificate": true,
+  "n_clienti": 600,
+  "configurazioni_confrontate": [
+    3,
+    4
+  ],
+  "metriche": [
+    {
+      "k": 3,
+      "silhouette": 0.514131,
+      "davies_bouldin": 0.819074,
+      "calinski_harabasz": 692.138452,
+      "dimensioni_cluster": {
+        "0": 199,
+        "1": 331,
+        "2": 70
+      },
+      "cluster_minimo": 70,
+      "cluster_massimo": 331,
+      "inertia": 723.169991
+    },
+    {
+      "k": 4,
+      "silhouette": 0.523729,
+      "davies_bouldin": 0.73291,
+      "calinski_harabasz": 865.99955,
+      "dimensioni_cluster": {
+        "0": 199,
+        "1": 142,
+        "2": 47,
+        "3": 212
+      },
+      "cluster_minimo": 47,
+      "cluster_massimo": 212,
+      "inertia": 447.839889
+    }
+  ],
+  "k_con_silhouette_maggiore_fra_quelli_confrontati": 4,
+  "scelta_k_training": {
+    "k_massimo_silhouette": 4,
+    "k_gomito": 4,
+    "k_raccomandato": 4,
+    "regola": "gomito entro 0,02 punti di silhouette dal miglior valore",
+    "soglia_tolleranza_silhouette": 0.02,
+    "nota": "Indicazione euristica: il valore finale richiede anche interpretazione dei gruppi."
+  },
+  "accordo_fra_partizioni": {
+    "k_a": 3,
+    "k_b": 4,
+    "adjusted_rand_index": 0.650929,
+    "nota": "Accordo tra due partizioni, non accuratezza rispetto a etichette reali."
+  },
+  "grafici_validation": [
+    "silhouette_k3.png",
+    "silhouette_k4.png"
+  ],
+  "grafici_descrittivi": "I grafici gomito, silhouette media, heatmap, PCA, boxplot e profili dei cluster sono conservati nella cartella del training.",
+  "note": [
+    "Silhouette e indici interni sono valutati sugli stessi dati di training: non è una validazione esterna.",
+    "Silhouette: maggiore è meglio, intervallo da -1 a 1.",
+    "Davies-Bouldin: minore è meglio; Calinski-Harabasz: maggiore è meglio.",
+    "Non assumere che K=4 equivalga ai quattro comportamenti esplicitati dalla traccia.",
+    "La caratteristica cliente recente può sovrapporsi alle fasce di attività.",
+    "Le percentuali descrittive dei cluster non sono le etichette di training."
+  ]
+}

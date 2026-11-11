@@ -1,0 +1,99 @@
+{
+  "timestamp_generazione_utc": "2026-11-11T16:31:24.836335Z",
+  "periodo_osservazione": {
+    "inizio_incluso": "29/07/2026",
+    "fine_inclusa": "26/10/2026"
+  },
+  "riepilogo_generale": {
+    "clienti_generati": 600,
+    "clienti_con_richieste_nel_periodo": 401,
+    "clienti_senza_richieste_nel_periodo": 199,
+    "interventi_nel_periodo": 1187,
+    "interventi_nella_storia": 2259,
+    "media_richieste_per_cliente_nel_periodo": 1.98,
+    "spesa_complessiva_nel_periodo_euro": 51708.1,
+    "spesa_media_per_cliente_nel_periodo_euro": 86.18,
+    "ticket_medio_per_intervento_nel_periodo_euro": 43.56
+  },
+  "comportamenti_richiesti_dalla_traccia": {
+    "molto_attivi": {
+      "clienti": 52,
+      "percentuale": 8.7,
+      "criterio": "Almeno 6 richieste nel periodo"
+    },
+    "occasionali": {
+      "clienti": 255,
+      "percentuale": 42.5,
+      "criterio": "1-2 richieste nel periodo"
+    },
+    "recenti": {
+      "clienti": 66,
+      "percentuale": 11.0,
+      "criterio": "Iscritti da meno di 30 giorni"
+    },
+    "inattivi": {
+      "clienti": 199,
+      "percentuale": 33.2,
+      "criterio": "0 richieste negli ultimi 90 giorni"
+    }
+  },
+  "analisi_aggiuntive": {
+    "attivi_intermedi": {
+      "clienti": 94,
+      "percentuale": 15.7,
+      "criterio": "3-5 richieste nel periodo"
+    },
+    "ticket_medio_elevato": {
+      "clienti": 39,
+      "percentuale": 6.5,
+      "criterio": "Ticket medio almeno 70.00 euro, con richieste nel periodo"
+    }
+  },
+  "metodologia_comportamenti": {
+    "finestra_osservazione_giorni": 90,
+    "fasce_di_frequenza_esclusive": [
+      "inattivi",
+      "occasionali",
+      "attivi_intermedi",
+      "molto_attivi"
+    ],
+    "recenti_trasversale": true,
+    "note": "Le quattro categorie della traccia non sono mutuamente esclusive: un cliente recente può appartenere a una fascia di frequenza. Perciò non sommare le loro percentuali."
+  },
+  "distribuzione_geografica": {
+    "Bologna": 67,
+    "Firenze": 43,
+    "Milano": 130,
+    "Napoli": 91,
+    "Palermo": 25,
+    "Roma": 154,
+    "Torino": 90
+  },
+  "distribuzione_categorie_preferite": {
+    "Configurazione backup": 126,
+    "Configurazione posta e account": 177,
+    "Installazione e configurazione software": 181,
+    "Scansione Anomalie/Vulnerabilità del dispositivo": 116
+  },
+  "citta_piu_rappresentata": {
+    "nome": "Roma",
+    "clienti": 154
+  },
+  "categoria_preferita_piu_comune": {
+    "nome": "Installazione e configurazione software",
+    "clienti": 181
+  },
+  "file_generati": {
+    "csv_clienti": "customer_history_dataset.csv",
+    "json_metadati": "customer_history_dataset.metadati.json",
+    "csv_richieste_storiche": null,
+    "json_recap": "customer_history_dataset.recap.json"
+  },
+  "note": [
+    "I quattro comportamenti richiesti dalla traccia sono riportati per primi.",
+    "Recenti e ticket medio elevato sono caratteristiche trasversali sovrapponibili.",
+    "La fascia intermedia attivi è un'analisi aggiuntiva, non richiesta dalla traccia.",
+    "Le classificazioni descrittive non costituiscono etichette reali per K-Means.",
+    "Gli importi del riepilogo si riferiscono alla finestra di osservazione."
+  ]
+}

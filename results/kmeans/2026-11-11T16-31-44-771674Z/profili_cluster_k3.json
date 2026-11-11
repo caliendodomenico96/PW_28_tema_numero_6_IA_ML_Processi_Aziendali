@@ -1,0 +1,44 @@
+{
+  "0": {
+    "clienti": 199,
+    "percentuale_clienti": 33.17,
+    "media_richieste": 0.0,
+    "media_spesa_euro": 0.0,
+    "mediana_spesa_euro": 0.0,
+    "media_recency_giorni": 152.99,
+    "media_anzianita_giorni": 175.02,
+    "percentuale_inattivi": 100.0,
+    "percentuale_molto_attivi": 0.0,
+    "percentuale_recenti": 0.0,
+    "zona_prevalente": "Milano",
+    "categoria_preferita_prevalente": "Configurazione posta e account"
+  },
+  "1": {
+    "clienti": 331,
+    "percentuale_clienti": 55.17,
+    "media_richieste": 1.84,
+    "media_spesa_euro": 71.78,
+    "mediana_spesa_euro": 50.3,
+    "media_recency_giorni": 28.46,
+    "media_anzianita_giorni": 94.63,
+    "percentuale_inattivi": 0.0,
+    "percentuale_molto_attivi": 0.6,
+    "percentuale_recenti": 19.94,
+    "zona_prevalente": "Roma",
+    "categoria_preferita_prevalente": "Configurazione posta e account"
+  },
+  "2": {
+    "clienti": 70,
+    "percentuale_clienti": 11.67,
+    "media_richieste": 8.27,
+    "media_spesa_euro": 399.28,
+    "mediana_spesa_euro": 301.79,
+    "media_recency_giorni": 10.24,
+    "media_anzianita_giorni": 161.4,
+    "percentuale_inattivi": 0.0,
+    "percentuale_molto_attivi": 71.43,
+    "percentuale_recenti": 0.0,
+    "zona_prevalente": "Roma",
+    "categoria_preferita_prevalente": "Installazione e configurazione software"
+  }
+}

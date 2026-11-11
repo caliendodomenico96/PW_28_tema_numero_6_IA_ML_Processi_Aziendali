@@ -1,0 +1,49 @@
+{
+  "righe": 600,
+  "imputazione": "mediana sul dataset di training",
+  "features": [
+    "numero_richieste",
+    "importo_totale_speso",
+    "giorni_ultima_richiesta",
+    "giorni_da_iscrizione"
+  ],
+  "trasformazione_spesa_log1p": true,
+  "valori_mancanti_per_feature": {
+    "numero_richieste": 0,
+    "importo_totale_speso": 0,
+    "giorni_ultima_richiesta": 0,
+    "giorni_da_iscrizione": 0
+  },
+  "valori_invalidi_o_negativi_per_feature": {
+    "numero_richieste": 0,
+    "importo_totale_speso": 0,
+    "giorni_ultima_richiesta": 0,
+    "giorni_da_iscrizione": 0
+  },
+  "percentuali_mancanti_per_feature": {
+    "numero_richieste": 0.0,
+    "importo_totale_speso": 0.0,
+    "giorni_ultima_richiesta": 0.0,
+    "giorni_da_iscrizione": 0.0
+  },
+  "data_riferimento": "26/10/2026",
+  "mediane_usate_per_imputazione": {
+    "numero_richieste": 1.0,
+    "importo_totale_speso": 3.535581,
+    "giorni_ultima_richiesta": 40.0,
+    "giorni_da_iscrizione": 140.5
+  },
+  "metodo_scaling": "StandardScaler (z-score)",
+  "colonne_escluse_dal_clustering": [
+    "id_cliente",
+    "nome",
+    "cognome",
+    "email",
+    "zona",
+    "data_iscrizione",
+    "importo_medio_speso",
+    "categoria_preferita",
+    "data_ultima_richiesta"
+  ],
+  "regola_valori_mancanti": "Errori/negativi -> NaN; mediana per ciascuna feature; oltre 25% -> errore"
+}

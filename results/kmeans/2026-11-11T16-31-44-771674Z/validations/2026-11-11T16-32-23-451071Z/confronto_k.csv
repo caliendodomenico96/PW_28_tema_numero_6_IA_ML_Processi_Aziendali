@@ -1,0 +1,3 @@
+k,silhouette,davies_bouldin,calinski_harabasz,cluster_minimo,cluster_massimo,inertia
+3,0.514131,0.819074,692.138452,70,331,723.169991
+4,0.523729,0.73291,865.99955,47,212,447.839889
